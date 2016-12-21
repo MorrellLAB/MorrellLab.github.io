@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2017-01-06
-leader: "<i>Colin Pierce</i>"
+leader: "Colin Pierce"
 paper_author: "Danelle K. Seymour, Eunyoung Chae, Dominik G. Grimm, Carmen Martín Pizarro, Anette Habring-Müller, et al."
 paper_year: 2016
 paper_title: "Genetic architecture of nonadditive inheritance in <i>Arabidopsis thaliana</i> hybrids"

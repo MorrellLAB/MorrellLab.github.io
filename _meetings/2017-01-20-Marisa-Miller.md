@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-01-13
+meet_date: 2017-01-20
 leader: "Marisa Miller"
 paper_author: "Yicheng Zhu, Teresa Neeman, Von Bing Yap, and Gavin A. Huttley"
 paper_year: 2016
