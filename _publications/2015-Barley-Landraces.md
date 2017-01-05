@@ -1,7 +1,7 @@
 ---
 paper_journal: "Genome Biology 16: 173"
 cluster: 17230405651098671923
-paper_year: 2015
+date: 2015-05-27
 paper_url: "http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0712-3"
 highlight: "http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0743-9"
 num_citations: "8"

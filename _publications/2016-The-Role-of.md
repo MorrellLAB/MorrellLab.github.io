@@ -1,7 +1,7 @@
 ---
 layout: default
 paper_author: "Kono TJY, Fu F, Mohammadi M, Hoffman PJ, Liu C, Stupar RM, Smith KP, Tiffin P, Fay JC, Morrell PL"
-paper_year: 2016
+date: 2016-06-14
 paper_title: "The role of deleterious substitutions in crop genomes"
 paper_journal: "Molecular Biology and Evolution 33: 1669-1678"
 paper_url: "http://mbe.oxfordjournals.org/content/33/9/2307"

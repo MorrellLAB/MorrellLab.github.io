@@ -4,14 +4,19 @@ title: Publications
 permalink: /publications/
 ---
 
-{% capture all_years %}{% for post in site.publications %}{{ post.paper_year }}, {% endfor %}{% endcapture %} <!-- Create a string of all years listed in our _publications, delimited by a comma and a space-->
+{% capture all_years %}
+    {% for post in site.publications %}{% if post.type == 'preprint' %}{{ post.type }}{% else %}{{ post.date | date: "%Y" }}{% endif %}, {% endfor %}
+{% endcapture %} <!-- Create a string of all years listed in our _publications, delimited by a comma and a space-->
 {% assign post_years = all_years | split : ',' | uniq %}<!-- Create an array out of the unique values -->
+
+{{ post_years }}
+
 
 <div class="home">
     <h4> <!-- Links to Google Scholar, ISI, ORCiD, and PubMed for Peter -->
-        <a href="http://scholar.google.com/citations?user=GnCbOj4AAAAJ&hl=en" rel="external">Google Scholar</a> | 
-        <a href="http://www.researcherid.com/ProfileView.action?SID=3FQCX6BjUEzreDOoabY&returnCode=ROUTER.Success&queryString=KG0UuZjN5WnWRkoEY6n%252Fnao36n1lwZN%252BI6RDxvBApGM%253D&SrcApp=CR&Init=Yes" rel="external">ISI</a> | 
-        <a href="http://orcid.org/0000-0001-6282-1582" rel="external">ORCiD</a> | 
+        <a href="http://scholar.google.com/citations?user=GnCbOj4AAAAJ&hl=en" rel="external">Google Scholar</a> |
+        <a href="http://www.researcherid.com/ProfileView.action?SID=3FQCX6BjUEzreDOoabY&returnCode=ROUTER.Success&queryString=KG0UuZjN5WnWRkoEY6n%252Fnao36n1lwZN%252BI6RDxvBApGM%253D&SrcApp=CR&Init=Yes" rel="external">ISI</a> |
+        <a href="http://orcid.org/0000-0001-6282-1582" rel="external">ORCiD</a> |
         <a href="http://www.ncbi.nlm.nih.gov/pubmed?cmd=PureSearch&term=morrell+pl%5BAuthor%5D" rel="external">PubMed</a>
     </h4>
         <!-- All publications from the lab -->
@@ -23,11 +28,11 @@ permalink: /publications/
                 {% else %} <!-- Otherwise -->
                     <h2>{{ year }}</h2> <!-- Just the year -->
                 {% endif %}
-                {% for post in site.publications %} <!-- For every publication entry -->
-                    {% capture this_year %}{{ post.paper_year }}{% endcapture %} <!-- Capture the year of the current paper as a string -->
+                {% for post in site.publications reversed %} <!-- For every publication entry -->
+                    {% capture this_year %}{% if post.type == 'preprint' %}{{ post.type }}{% else %}{{ post.date | date: "%Y" }}{% endif %}{% endcapture %} <!-- Capture the year of the current paper as a string -->
                     {% if year contains this_year %} <!-- If our overall year contains the value of the paper's year (again with the space) -->
                         <!-- Create an entry for this paper -->
-                        <span class="post-content">{{ post.paper_author }} ({{ post.paper_year }}). <a href="{{ post.paper_url }}">{{ post.paper_title }}</a>. {{post.paper_journal }}.</span><br />
+                        <span class="post-content">{{ post.paper_author }} ({{ this_year }}). <a href="{{ post.paper_url }}">{{ post.paper_title }}</a>. {{post.paper_journal }}.</span><br />
                         {% if post.num_citations %}
                             &#8226 <a href="{{ post.citation_url }}">{{ post.num_citations }} citations</a>
                         {% endif %}
@@ -59,7 +64,7 @@ permalink: /publications/
                             <span class="post-content">{{ post.content }}</span>
                         {% endif %}
                         {% if post.pdf %}
-                            <a href="{{ post.pdf }}">PDF</a>
+                            &#8226 <a href="{{ post.pdf }}">PDF</a>
                         {% endif %}
                         <br /> <!-- One last line break -->
                     {% endif %}

@@ -1,7 +1,7 @@
 ---
 paper_journal: "Journal of Heredity 103: 836-872"
 cluster: 9332992062627939768
-paper_year: 2012
+date: 2012-10-22
 poster: "http://f1000research.com/posters/1092010"
 paper_url: "http://jhered.oxfordjournals.org/content/103/6/863.abstract"
 num_citations: "5"
