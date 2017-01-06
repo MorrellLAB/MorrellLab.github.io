@@ -2,7 +2,7 @@
 name: "Tom Kono"
 rank: graduate
 start-date: 2011-06-01
-end-date: Present
+end-date: 2016-10-15
 image: "tom.jpg"
 google-scholar: https://scholar.google.com/citations?user=3CHUUiEAAAAJ&hl=en
 github: https://github.com/TomJKono
@@ -11,4 +11,4 @@ twitter: https://twitter.com/TomJKono
 website: http://www.tc.umn.edu/~konox006/
 ---
 
-Tom is interested in soybean genomics, wild barley SNP diversity, and SNP annotation.
+PhD Applied Plant Sciences 2016; currently a postdoctoral scholar with <a href="https://sites.google.com/site/mcgaughlab/" rel='external'>Suzanne McGaugh</a>. Tom is interested in soybean genomics, wild barley SNP diversity, and SNP annotation.
