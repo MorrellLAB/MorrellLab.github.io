@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2017-02-24
-leader: "Tom Kono"
+leader: "Peter Morrell"
 paper_author: "Jonathan Terhorst, John A Kamm, Yun S Song"
 paper_year: 2016
 paper_title: "Robust and scalable inference of population history from hundreds of unphased whole genomes"
