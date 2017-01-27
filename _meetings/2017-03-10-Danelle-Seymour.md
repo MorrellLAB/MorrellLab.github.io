@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2017-03-10
-leader: "Corey Carter"
+leader: "Danelle Seymour"
 paper_author: "Alexandra Olhoff et al"
 paper_year: 2017
 paper_title: "Barley NAM"
