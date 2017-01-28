@@ -1,7 +1,7 @@
 ---
 layout: meeting
-meet_date: 2017-02-10
-leader: "Ana Poets"
+meet_date: 2017-02-03
+leader: "Danelle Seymour"
 paper_author: "Paul Fransz, et al."
 paper_year: 2016
 paper_title: "Molecular, genetic and evolutionary analysis of a paracentric inversion in Arabidopsis thaliana."
