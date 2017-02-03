@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2017-03-28
+meet_date: 2017-04-04
 topic: "Quantitative Genetics Part III: BEAGLE and fastPHASE"
 leaders: "<i>TBD</i>"
 ---

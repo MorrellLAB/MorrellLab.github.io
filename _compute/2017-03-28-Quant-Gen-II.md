@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2017-03-21
+meet_date: 2017-03-28
 topic: "Quantitative Genetics Part II: R/QTL continued"
 leaders: "<i>TBD</i>"
 ---

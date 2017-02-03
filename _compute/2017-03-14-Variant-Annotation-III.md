@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2017-03-07
+meet_date: 2017-03-14
 topic: "Variant Annotation Part III: BAD_Mutations and SNPMeta"
 leaders: "<i>TBD</i>"
 ---
