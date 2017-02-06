@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-02-24
+meet_date: 2017-02-10
 leader: "Peter Morrell"
 paper_author: "Jonathan Terhorst, John A Kamm, Yun S Song"
 paper_year: 2016

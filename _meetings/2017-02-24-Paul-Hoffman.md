@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-02-10
+meet_date: 2017-02-24
 leader: "Paul Hoffman"
 paper_author: "Kono, et al."
 paper_year: 2017
