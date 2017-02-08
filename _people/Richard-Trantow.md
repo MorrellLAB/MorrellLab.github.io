@@ -2,7 +2,7 @@
 name: "Richard Trantow"
 rank: undergraduate
 start-date: 2015-12-01
-end-date: Present
+end-date: 2017-01-17
 image: "richard.jpg"
 google-scholar:
 github:
