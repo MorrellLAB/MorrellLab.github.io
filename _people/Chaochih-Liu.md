@@ -10,4 +10,4 @@ linkedin: https://www.linkedin.com/pub/chaochih-liu/50/4b9/bb2
 twitter: https://twitter.com/ChaochihLiu
 ---
 
-Chaochih has been working as a lab technician and has been investigating genomic structural variations that contribute to locally adaptive processes in barley. She is interested in evolutionary genetics and plant evolution.
+Chaochih is the lab manager and has been investigating genomic structural variations that contribute to locally adaptive processes in barley. She is interested in evolutionary genetics and plant evolution.
