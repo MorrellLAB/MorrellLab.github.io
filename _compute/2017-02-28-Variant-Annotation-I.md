@@ -1,8 +1,8 @@
 ---
 layout: compute
 meet_date: 2017-02-28
-topic: "Variant Annotation Part I: SnpEff and SnpSift"
+topic: "Variant Annotation Part: BAD_Mutations and SNPMeta"
 leaders: "<i>TBD</i>"
 ---
 
-We are introducing variant annotation with a discussion on SnpEff and SnpSift.
+We are talking about variant annotation with BAD_Mutations and SNPMeta.
