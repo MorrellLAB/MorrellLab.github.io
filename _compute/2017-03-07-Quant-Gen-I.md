@@ -1,8 +1,8 @@
 ---
 layout: compute
 meet_date: 2017-03-07
-topic: "Big Data Visualization"
-leaders: "Alex Olhoff"
+topic: "Quantitative Genetics Part I: R/QTL"
+leaders: "Li Lei"
 ---
 
-Special discussion: Alex Olhoff will talk about big data visualization.
+We are starting quantitative genetics with R/QTL.
