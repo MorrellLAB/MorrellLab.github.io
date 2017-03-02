@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-03-10
+meet_date: 2017-03-17
 leader: "Skylar Wyant"
 paper_author: "Eyre-Walker, A and Keightley, PD"
 paper_year: 2009
