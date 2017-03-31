@@ -6,5 +6,5 @@ paper_author: "Mandel, Nambeesan, Bowers, et al."
 paper_year: 2013
 paper_title: "Association Mapping and the Genomic Consequences of Selection in Sunflower"
 paper_journal: "PLOS Genetics"
-paper_url: "http://www.theburkelab.org/reprints/PLoSGenet2013.pdf"
+paper_url: "http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003378"
 ---
