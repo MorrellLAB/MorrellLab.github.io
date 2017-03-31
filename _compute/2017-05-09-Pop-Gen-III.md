@@ -1,7 +1,7 @@
 ---
 layout: compute
-meet_date: 2017-04-25
-topic: "Populaiton Genetics Part III: hierfstat and LDhat"
+meet_date: 2017-05-09
+topic: "Population Genetics Part III: hierfstat and LDhat"
 leaders: "<i>TBD</i>"
 ---
 
