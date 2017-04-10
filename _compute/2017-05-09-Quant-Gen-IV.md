@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2017-04-11
+meet_date: 2017-05-09
 topic: "Quantitative Genetics Part IV: BEAGLE and fastPHASE"
 leaders: "<i>Peter Morrell</i>"
 ---
