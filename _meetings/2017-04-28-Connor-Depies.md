@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-04-21
+meet_date: 2017-04-28
 leader: "Connor Depies"
 paper_author: "Mohammadi, Tiede, and Smith"
 paper_year: 2015
