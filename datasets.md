@@ -3,10 +3,17 @@ layout: hidden_page
 hidden_title: Data Sets
 permalink: /datasets/
 ---
-The majority of our published DNA sequence datasets are available through the "[PopSet](http://www.ncbi.nlm.nih.gov/popset)" archive at NCBI (GenBank).
+The majority of our older Sanger DNA resequence datasets are available through the "[PopSet](http://www.ncbi.nlm.nih.gov/popset)" archive at NCBI (GenBank).
 Unfortunately, the PopSet archive does not preserve original alignments.
 Links to PopSet data sets are below, and original alignments will be added.
 There are also links to a couple of datasets (e.g., wild barley Adh1 and Adh3, SNP genotyping data from maize and teosinte) that we did not generate but have used in analyses.
+
+[Kono et al. (preprint)](http://biorxiv.org/content/early/2017/02/27/112318) bioRxiv
+
+[Liu et al. 2016](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msw296)
+[Supplementary Data](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/34/4/10.1093_molbev_msw296/2/msw296_Supp.zip?Expires=1492633148&Signature=HfzfvquRm95sbyn7mRxRzL1EQkZd8fzQudgvp0M-VdsqRDWTQZZWJUsoNHIycv~5cJOXfTNff-aCb~cvZQMpMp9EQu0ahq6CFpikYnTST2aFx5Yc2mveMmwxoZOKCXFnQmASUuC-~Oi1Epn6biVoUjv4xwM6hVbzFPyprOWL5OPICKLxG4j10KdMh1971Cx58O510x0Z7jXfCFzvHrwe2C6pwQgyNY2a0kw-WDrSbr38CriYeDwpAqLDHxLfO1cCVQwXsXZLdAKEZ8CbCswgkItxFEb-QklEr7U6r-FcN2JQObMQ0lkFfoLKC~Z7-Y9DXsJFbrVP~ed8VWarQB1fdA__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q)
+
+[Nice et al. 2016](http://www.genetics.org/content/203/3/1453) Genetics. 
 
 [Kono et al. 2016](http://mbe.oxfordjournals.org/content/early/2016/06/11/molbev.msw102). Mol Bio Evol. Barley SNPs from Illumina resequencing, genotyping platforms, and prior Sanger sequencing in VCF format. [Data Sets](https://conservancy.umn.edu/handle/11299/181502)
 
