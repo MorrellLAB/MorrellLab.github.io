@@ -1,7 +1,7 @@
 ---
 layout: meeting
-meet_date: 2017-05-05
-leader: "Corey Carter"
+meet_date: 2017-05-04
+leader: "Corey Carter - Note Special Meeting Date"
 paper_author: "Wang, Beissinger, Lorant et al."
 paper_year: 2017
 paper_title: "The interplay of demography and selection during maize domestication and expansion"
