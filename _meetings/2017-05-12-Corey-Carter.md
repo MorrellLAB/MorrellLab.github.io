@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-05-04
+meet_date: 2017-05-12
 leader: "Corey Carter - Note Special Meeting Date"
 paper_author: "Wang, Beissinger, Lorant et al."
 paper_year: 2017

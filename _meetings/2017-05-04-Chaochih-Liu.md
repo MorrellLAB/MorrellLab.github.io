@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-05-12
+meet_date: 2017-05-04
 leader: "Chaochih Liu"
 paper_author: "Turner, Beales, Faure et al."
 paper_year: 2005
