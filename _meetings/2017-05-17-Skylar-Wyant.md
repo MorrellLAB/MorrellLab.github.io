@@ -2,7 +2,7 @@
 layout: meeting
 meet_date: 2017-05-17
 leader: "Skylar Wyant"
-paper_author: "Meyer, Choi, Sanches et al."
+paper_author: "Meyer et al."
 paper_year: 2016
 paper_title: "Domestication history and geographical adaptation inferred from a SNP map of African rice"
 paper_journal: "Nature Genetics"
