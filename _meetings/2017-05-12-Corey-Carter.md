@@ -2,7 +2,7 @@
 layout: meeting
 meet_date: 2017-05-12
 leader: "Corey Carter"
-paper_author: "Wang, Beissinger, Lorant et al."
+paper_author: "Wang et al."
 paper_year: 2017
 paper_title: "The interplay of demography and selection during maize domestication and expansion"
 paper_journal: "bioRxiv"
