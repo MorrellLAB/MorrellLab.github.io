@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-06-02
+meet_date: 2017-05-31
 leader: "Peter Morrell"
 paper_author: "Mandel JR, et al."
 paper_year: 2013

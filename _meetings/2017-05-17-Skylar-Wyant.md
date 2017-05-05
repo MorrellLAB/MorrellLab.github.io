@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-05-19
+meet_date: 2017-05-17
 leader: "Skylar Wyant"
 paper_author: "Meyer, Choi, Sanches et al."
 paper_year: 2016
