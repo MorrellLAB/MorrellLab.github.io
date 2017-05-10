@@ -1,7 +1,7 @@
 ---
 layout: compute
 meet_date: 2017-05-16
-topic: "fwdpp/fwdpy/fwdpy11 various frameworks (click on link to see material)"
+topic: "fwdpp/fwdpy/fwdpy11 various frameworks"
 leaders: "<i>Group Discussion</i>"
 ---
 
