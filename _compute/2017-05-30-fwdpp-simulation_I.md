@@ -2,9 +2,9 @@
 layout: compute
 meet_date: 2017-05-30
 topic: "fwdpp/fwdpy/fwdpy11 simulation"
-leaders: "<i>TBD</i>"
+leaders: "Colin Pierce"
 ---
 
-### [fwdpp](http://molpopgen.github.io/fwdpp/)/[fwdpy](http://molpopgen.github.io/fwdpy/)/[fwdpy11](https://molpopgen.github.io/fwdpy11/) various frameworks
+### [fwdpy11](https://molpopgen.github.io/fwdpy11/) simulation
 
 ### Materials: TBD
