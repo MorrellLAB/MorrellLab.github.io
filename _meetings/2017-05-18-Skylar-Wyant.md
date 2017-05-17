@@ -1,7 +1,7 @@
 ---
 layout: meeting
-meet_date: 2017-05-17
-leader: "Skylar Wyant"
+meet_date: 2017-05-18
+leader: "Skylar Wyant - Note special meeting date (Thursday)"
 paper_author: "Meyer et al."
 paper_year: 2016
 paper_title: "Domestication history and geographical adaptation inferred from a SNP map of African rice"
