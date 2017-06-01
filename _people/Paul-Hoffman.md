@@ -2,7 +2,7 @@
 name: "Paul Hoffman"
 rank: technician
 start-date: 2014-12-08
-end-date: Present
+end-date: 2017-03-10
 image: paul.jpg
 google-scholar: https://scholar.google.com/citations?user=LVWmIpkAAAAJ&hl=en
 github: https://github.com/mojaveazure
