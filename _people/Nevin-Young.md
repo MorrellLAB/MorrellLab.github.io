@@ -2,7 +2,7 @@
 name: "Nevin D. Young"
 rank: collaborator
 start-date: 
-end-date: Present
+end-date: 
 image: 
 google-scholar: 
 github: 

@@ -5,17 +5,31 @@
     <!--Start by determining which style goes on the page-->
     {% if include.this == 'former' %} <!-- If we want people who are not currently a member of the lab -->
         {% unless include.end == 'Present' or include.rank == 'honorary' or include.rank == 'collaborator' %} <!-- Exclude current members -->
-                {% if include.google-scholar %} <!-- Do we have a Google Scholar page? -->
-                    <a href="{{ include.google-scholar }}" rel="external">{{ include.name }}</a>, <!-- Name links to Google Scholar -->
-                {% elsif include.website %} <!-- No Google Scholar, try website -->
-                    <a href="{{ include.website }}" rel="external">{{ include.name }}</a>, <!-- Name links to website -->
-                {% else %} <!-- Neither -->
-                    {{ include.name }},
-                {% endif %}
+                {{ include.name }},
                 {% if start_year contains end_year %} <!-- Less than a year in the lab -->
                     {{ start_year }}
                 {% else %} <!-- More than a year in the lab -->
                     {{ start_year }} &mdash; {{ end_year }}
+                {% endif %}
+                {% if include.website or include.google-scholar or include.github or include.linkedin or include.twitter %}, {% endif %}
+                {% if include.website %} <!-- Do we have a website? -->
+                    <a href="{{ include.website }}" rel="external"><span class="name">Website</span></a>
+                    {% if include.google-scholar or include.github or include.linkedin or include.twitter %} | {% endif %}
+                {% endif %}
+                {% if include.google-scholar %} <!-- Google Scholar page? -->
+                    <a href="{{ include.google-scholar }}" rel="external"><span class="name">Google Scholar</span></a>
+                    {% if include.github or include.linkedin or include.twitter %} | {% endif %}
+                {% endif %}
+                {% if include.github %} <!-- GitHub page? -->
+                    <a href="{{ include.github }}" rel="external"><span class="name">Github</span></a>
+                    {% if include.linkedin or include.twitter %} | {% endif %}
+                {% endif %}
+                {% if include.linkedin %} <!-- LinkedIn? -->
+                    <a href="{{ include.linkedin }}" rel="external"><span class="name">LinkedIn</span></a>
+                    {% if include.twitter %} | {% endif %}
+                {% endif %}
+                {% if include.twitter %} <!-- Twitter? -->
+                    <a href="{{ include.twitter }}" rel="external"><span class="name">Twitter</span></a>
                 {% endif %}
                 {% case include.rank %}
                     {% when 'undergraduate' %} <!-- Undergraduates get called 'undergraduates' -->

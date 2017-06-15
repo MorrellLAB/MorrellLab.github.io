@@ -2,7 +2,7 @@
 name: "James E. Kurle"
 rank: collaborator
 start-date: 
-end-date: Present
+end-date:
 image: 
 google-scholar: 
 github: 
