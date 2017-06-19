@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-06-28
+meet_date: 2017-06-21
 leader: "Skylar Wyant"
 paper_author: "Belfield et al."
 paper_year: 2012
