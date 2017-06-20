@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-06-28
+meet_date: 2017-07-19
 leader: "Colin Pierce"
 paper_author: "Sheehan S, Song YS"
 paper_year: 2016

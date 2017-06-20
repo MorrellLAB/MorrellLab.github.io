@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-07-26
+meet_date: 2017-08-02
 leader: "Peter Morrell"
 paper_author: "Zeng W, Long H, Zhao S, Tang Y, Huang Z et al."
 paper_year: 2015
