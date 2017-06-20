@@ -6,5 +6,5 @@ paper_author: "Daniel Garrigan"
 paper_year: 2013
 paper_title: "POPBAM: Tools for evolutionary analysis of short read sequence alignments"
 paper_journal: "Evolutionary Bioinformatics Online"
-paper_url: "https://www.ncbi.nlm.nih.gov/pmc/journals/397/"
+paper_url: "https://www.ncbi.nlm.nih.gov/pubmed/24027417"
 ---
