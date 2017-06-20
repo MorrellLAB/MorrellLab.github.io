@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2017-08-02
-leader: "Peter Morrell"
+leader: "Chaochih Liu"
 paper_author: "Huerta-Sánchez E, Jin X, Asan, Bianba Z, Peter BM et al."
 paper_year: 2014
 paper_title: "Altitude adaptation in Tibetans caused by introgression of Denisovan-like DNA"
