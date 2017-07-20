@@ -5,7 +5,7 @@ start-date: 2016-05-01
 end-date: Present
 image: "connor.jpg"
 google-scholar:
-github: 
+github: https://github.com/Depies 
 linkedin:
 twitter: 
 ---

@@ -5,7 +5,7 @@ start-date: 2016-06-01
 end-date: Present
 image: "corey.jpg"
 google-scholar: 
-github: 
+github: https://github.com/carte731
 linkedin: 
 twitter: 
 ---

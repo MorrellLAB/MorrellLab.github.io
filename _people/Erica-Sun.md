@@ -5,7 +5,7 @@ start-date: 2016-09-26
 end-date: Present
 image: "erica_sun.jpg"
 google-scholar:
-github:
+github: https://github.com/ericacasun
 linkedin:
 twitter:
 ---

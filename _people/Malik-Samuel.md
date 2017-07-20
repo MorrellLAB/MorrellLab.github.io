@@ -5,7 +5,7 @@ start-date: 2017-05-01
 end-date: Present
 image: malik.jpg
 google-scholar:
-github:
+github: https://github.com/maliksamuel
 linkedin:
 twitter:
 ---
