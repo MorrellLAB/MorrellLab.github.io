@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-08-30
+meet_date: 2017-09-06
 leader: "Chaochih Liu"
 paper_author: "Huerta-Sánchez E, Jin X, Asan, Bianba Z, Peter BM et al."
 paper_year: 2014
