@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-09-13
+meet_date: 2017-09-14
 leader: "Colin Pierce - Special time : 11 AM"
 paper_author: "Drummond DA, Wilke CO"
 paper_year: 2008
