@@ -1,6 +1,5 @@
 ---
 paper_journal: "Nature Reviews Genetics 13: 85-96"
-num_citations: "210"
 paper_author: "Morrell PL, Buckler ES, Ross-Ibarra J"
 cluster: 12664715338521683012
 date: 2012-02-01
