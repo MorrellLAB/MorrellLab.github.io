@@ -1,6 +1,6 @@
 ---
 paper_journal: "G3 4: 1193-1203"
-num_citations: "10"
+num_citations: "18"
 paper_author: "Fang Z, Gonzales AM, Clegg MT, Muehlbauer GJ, Smith KP, Steffenson BJ, Morrell PL"
 cluster: 8023485024706519142
 date: 2014-04-22
