@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+# Usage: python3 UpdateCitations.py
+#   You must be in MorrellLab.github.io to run this (not a subdirectory)
+#   You must have the following repository cloned into MorrellLab.github.io and renamed to "scholar"
+#       https://github.com/ckreibich/scholar.py.git
+#   Each publication to be updated must have a citation_url
+
 import sys
 if not sys.version_info.major == 3 and not sys.version_info >= 3:
     sys.exit("Please use Python 3.3 or higher for this script")
