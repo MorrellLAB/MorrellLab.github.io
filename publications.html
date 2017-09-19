@@ -36,6 +36,9 @@ permalink: /publications/
                         {% if post.preprint %}
                             &#8226 <a href="{{ post.preprint }}">Preprint version</a>
                         {% endif %}
+                        {% if post.dataset %}
+                            &#8226 <a href="{{ post.dataset }}">Associated dataset</a>
+                        {% endif %}
                         {% if post.github %}
                             &#8226 <a href="{{ post.github }}">Github</a>
                         {% endif %}

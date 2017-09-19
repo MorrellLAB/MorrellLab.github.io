@@ -11,4 +11,5 @@ citation_url: "http://scholar.google.com/scholar?cites=5782349760913428641&as_sd
 documentation: "http://www.tc.umn.edu/~konox006/Code/SNPMeta/"
 software_name: "SNPMeta"
 layout: default
+dataset: "https://conservancy.umn.edu/handle/11299/181367"
 ---

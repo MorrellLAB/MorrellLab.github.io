@@ -8,4 +8,5 @@ citation_url: "http://scholar.google.com/scholar?cites=14645358256611236648&as_s
 paper_title: "The influence of linkage and inbreeding on patterns of nucleotide sequence diversity at duplicate alcohol dehydrogenase loci in wild barley (<i>Hordeum vulgare</i> ssp. <i>spontaneum</i>)"
 paper_url: "http://www.genetics.org/content/162/4/2007.abstract"
 layout: default
+dataset: "http://www.ncbi.nlm.nih.gov/popset?term=morrell%20adh2"
 ---

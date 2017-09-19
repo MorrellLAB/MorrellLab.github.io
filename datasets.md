@@ -13,7 +13,7 @@ There are also links to a couple of datasets (e.g., wild barley Adh1 and Adh3, S
 <!--[Kono et al. (preprint)](http://biorxiv.org/content/early/2017/02/27/112318) bioRxiv-->
 
 [Liu et al. 2017](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msw296). MBE. 
-[Supplementary Data, including locations of selective sweeps in rice](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/34/4/10.1093_molbev_msw296/2/msw296_Supp.zip?Expires=1499366590&Signature=IBDy5-09FTJgm0Xn9unRAsI4ipH1wl9-SLOHGc1ZVzSXj5Vp1Z5X86iwafeaHbt5kRSvoQ5tA8qfw-9bdzUZlY9RIqmkvduk15TPKiKVZf0pKnJibhYnZleyGkzOa2wupEGKysSxUfXEu8OLrCq3GNCUGDmDUoW4HNDbIVlXxyT74A5~TNGt7FoAKRgSIcLTsxXUnFHwZtvxcbKF5nTkxVXS1X2eKR7DI-RtSwTaTVyKtKtMNBsp7znpFgLVIZ8O~0SgsxE0J3w91IeQZ~RGV5mRZuWaKd6jcjxpefOnJ8tUbdknl9-nHqHyixsq0ya46I2kY3xTR74gpKcTXZIHvw__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q)
+[Supplementary Data, including locations of selective sweeps in rice](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msw296#supplementary-data)
 
 <!--[Nice et al. 2016](http://www.genetics.org/content/203/3/1453) Genetics. -->
 
@@ -69,9 +69,9 @@ There are also links to a couple of datasets (e.g., wild barley Adh1 and Adh3, S
 
 [Lin, Brown & Clegg 2001.](http://www.pnas.org/content/98/2/531.abstract) Proc Natl Acad Sci USA. Resequencing data for 25 wild barley accessions for [Adh3](http://www.ncbi.nlm.nih.gov/nuccore?term=AF326691%3AAF326715%5BAccession%5D).
 
-[Cummings & Clegg 1998.](http://www.pnas.org/content/95/10/5637.abstract) Proc Natl Acad Sci USA. Resequencing data for 25 wild barley accessions for [Adh1](http://www.ncbi.nlm.nih.gov/nuccore/?term=AF052664%3AAF052682%5BAccession%5D).
-
 [Morrell et al. 2000.](http://link.springer.com/article/10.1007%2FBF00985264) Plant Syst Evol. Phylogenetic and resequencing data for 28 Gilia accessions for [ITS](http://www.ncbi.nlm.nih.gov/nuccore?cmd=HistorySearch&QueryKey=15) and [trnL](http://www.ncbi.nlm.nih.gov/nuccore?cmd=HistorySearch&QueryKey=16).
+
+[Cummings & Clegg 1998.](http://www.pnas.org/content/95/10/5637.abstract) Proc Natl Acad Sci USA. Resequencing data for 25 wild barley accessions for [Adh1](http://www.ncbi.nlm.nih.gov/nuccore/?term=AF052664%3AAF052682%5BAccession%5D).
 
 [Morrell & Rieseberg 1998.](http://www.amjbot.org/content/85/10/1439.abstract) Am J Bot. Phylogenetic and resequencing data for 33 Gilia accessions for [ITS](http://www.ncbi.nlm.nih.gov/nuccore?cmd=HistorySearch&QueryKey=10) and [trnL](http://www.ncbi.nlm.nih.gov/nuccore?cmd=HistorySearch&QueryKey=14).
 

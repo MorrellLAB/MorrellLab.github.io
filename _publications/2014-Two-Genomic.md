@@ -8,4 +8,5 @@ citation_url: "http://scholar.google.com/scholar?cites=8023485024706519142&as_sd
 paper_title: "Two genomic regions contribute disproportionately to geographic differentiation in wild barley"
 paper_url: "http://www.g3journal.org/content/4/7/1193.abstract"
 layout: default
+dataset: "https://conservancy.umn.edu/handle/11299/181368"
 ---

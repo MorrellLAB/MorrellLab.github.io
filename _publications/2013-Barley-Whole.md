@@ -8,4 +8,5 @@ citation_url: "http://scholar.google.com/scholar?cites=13562026288743761146&as_s
 paper_title: "Barley whole exome capture: a new tool for genomic research in the genus <i>Hordeum</i> and beyond"
 paper_url: "http://onlinelibrary.wiley.com/doi/10.1111/tpj.12294/abstract"
 layout: default
+dataset: "../datasets/index.html"
 ---
