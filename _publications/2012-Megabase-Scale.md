@@ -8,4 +8,5 @@ citation_url: "http://scholar.google.com/scholar?cites=6473644606884467791&as_sd
 paper_title: "Megabase-scale inversion polymorphism in the wild ancestor of maize"
 paper_url: "http://www.genetics.org/content/191/3/883.abstract"
 layout: default
+dataset: "https://figshare.com/articles/Fang_et_al_2012/840519"
 ---

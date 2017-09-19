@@ -12,3 +12,5 @@ _site/
 
 # Ignore Gemfile.lock #
 Gemfile.lock
+
+*.DS_Store

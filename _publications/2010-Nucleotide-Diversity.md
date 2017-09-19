@@ -8,4 +8,5 @@ citation_url: "http://scholar.google.com/scholar?cites=5744023520191633987&as_sd
 paper_title: "Nucleotide diversity maps reveal variation in diversity among wheat genomes and chromosomes"
 paper_url: "http://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-11-702"
 layout: default
+dataset: "http://probes.pw.usda.gov:8080/snpworld/Map"
 ---
