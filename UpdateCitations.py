@@ -4,7 +4,7 @@
 #   You must be in MorrellLab.github.io to run this (not a subdirectory)
 #   You must have the following repository cloned into MorrellLab.github.io and renamed to "scholar"
 #       https://github.com/ckreibich/scholar.py.git
-#   Each publication to be updated must have a citation_url
+#   Each publication to be updated must have a citation_url and a cluster (part of the url)
 
 import sys
 if not sys.version_info.major == 3 and not sys.version_info >= 3:
