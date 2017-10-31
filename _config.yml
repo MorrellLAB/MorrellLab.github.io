@@ -10,7 +10,8 @@ images_dir: "/raw/master/images/"
 twitter_username: PeterLMorrell
 github_username:  MorrellLab
 future: true
-
+plugins:
+  - jemoji
 # Build settings
 markdown: kramdown
 permalink: pretty
