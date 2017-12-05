@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2017-12-07
+meet_date: 2017-12-14
 leader: "Peter Morrell"
 paper_author: "Will WG"
 paper_year: 2014
