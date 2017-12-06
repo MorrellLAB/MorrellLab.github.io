@@ -5,3 +5,4 @@ topic: "sequence_handling"
 leaders: "Skylar Wyant"
 ---
 
+[sequence_handling documentation](https://github.com/MorrellLAB/sequence_handling)
