@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2018-01-12
+meet_date: 2018-01-11
 leader: "Connor Depies"
 paper_author: "Moreno-Mayar JV, Potter BA, Vinner L, Steinrücken M, Rasmussen S, Terhorst J et al."
 paper_year: 2018
