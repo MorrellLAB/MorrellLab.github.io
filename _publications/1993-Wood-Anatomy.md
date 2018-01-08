@@ -5,7 +5,7 @@ pdf: "http://woodevolution.org/pdf2/1993_Wood_Sabiaceae_1993.PDF"
 layout: default
 paper_author: "Carlquist S, Manchester SSR, Morrell PL"
 num_citations: "10"
-paper_journal: "A Journal of Systematic and Evolutionary Botany 13: 521-549"
+paper_journal: "Aliso 13: 521-549"
 paper_url: "http://www.rsabg.org/scientific-publications"
 cluster: 13765301233094265490
 date: "1993-12-30"
