@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2018-03-01
+meet_date: 2018-03-08
 leader: "Corey Carter"
 paper_author: "Wang J, Li X, Kim KD, Scanlon MJ, Jackson SA et al."
 paper_year: preprint
