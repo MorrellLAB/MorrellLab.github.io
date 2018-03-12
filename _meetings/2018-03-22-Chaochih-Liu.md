@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2018-03-15
+meet_date: 2018-03-22
 leader: "Chaochih Liu"
 paper_author: "Paten B, Novak AM, Eizenga JM, Garrison E"
 paper_year: 2017
