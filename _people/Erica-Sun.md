@@ -10,4 +10,4 @@ linkedin:
 twitter:
 ---
 
-Erica is an undergraduate majoring in animal science with a pre-veterinary emphasis.
+Erica is an undergraduate student studying genetics and animal science.
