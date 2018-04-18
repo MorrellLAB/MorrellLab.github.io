@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2018-05-03
+meet_date: 2018-04-26
 leader: "Peter Morrell"
 paper_author: "Simons YB, Bullaughey K, Hudson RR, Sella G"
 paper_year: 2018
