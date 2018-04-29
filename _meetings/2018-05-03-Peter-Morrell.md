@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2018-05-03
-leader: "Peter Morrell - 2:30 PM - Note special date and time"
+leader: "Peter Morrell"
 paper_author: "Simons YB, Bullaughey K, Hudson RR, Sella G"
 paper_year: 2018
 paper_title: "A population genetic interpretation of GWAS findings for human quantitative traits"
