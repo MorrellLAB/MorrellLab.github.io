@@ -16,3 +16,5 @@ Prior to the discussion, please skim through the chapter. It is ok if most of it
 **All programming levels are welcome! If you are a beginner, we will pair you up with someone who has more experience programming.**
 
 ![](https://cdn-images-1.medium.com/max/800/1*sBJhFwmpfbftanqzxOeK_w.jpeg)
+
+Image source: https://medium.com/@tomspencer_uk/pair-programming-and-problem-solving-4531ef3bf171
