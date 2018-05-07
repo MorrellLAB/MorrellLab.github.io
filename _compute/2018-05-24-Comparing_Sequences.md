@@ -1,7 +1,7 @@
 ---
 layout: compute
-meet_date: 2018-05-10
-topic: "Bioinformatics Algorithms - Ch 10 Why have biologists still not developed an HIV vaccine?"
+meet_date: 2018-05-24
+topic: "Bioinformatics Algorithms - Ch 5 How do we compare biological sequences?"
 leaders: "Pair Programming"
 ---
 

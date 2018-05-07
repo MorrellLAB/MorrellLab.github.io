@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2018-05-10
+meet_date: 2018-05-17
 topic: "Bioinformatics Algorithms - Ch 3 How do we assemble genomes?"
 leaders: "Pair Programming"
 ---
