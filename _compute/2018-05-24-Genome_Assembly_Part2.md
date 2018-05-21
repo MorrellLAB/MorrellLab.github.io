@@ -1,7 +1,7 @@
 ---
 layout: compute
-meet_date: 2018-05-31
-topic: "Bioinformatics Algorithms - Ch 9 How do we locate disease-causing mutations?"
+meet_date: 2018-05-24
+topic: "Bioinformatics Algorithms - Ch 3 How do we assemble genomes? - Pages 134-164"
 leaders: "Pair Programming"
 ---
 

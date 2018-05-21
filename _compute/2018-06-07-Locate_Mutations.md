@@ -1,7 +1,7 @@
 ---
 layout: compute
-meet_date: 2018-05-24
-topic: "Bioinformatics Algorithms - Ch 5 How do we compare biological sequences?"
+meet_date: 2018-06-07
+topic: "Bioinformatics Algorithms - Ch 9 How do we locate disease-causing mutations?"
 leaders: "Pair Programming"
 ---
 
