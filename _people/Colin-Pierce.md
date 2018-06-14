@@ -2,7 +2,7 @@
 name: "Colin Pierce"
 rank: graduate
 start-date: 2015
-end-date: Present
+end-date: 2017-09-01
 image: colin.jpg
 google-scholar:
 github: https://github.com/cpthrash
