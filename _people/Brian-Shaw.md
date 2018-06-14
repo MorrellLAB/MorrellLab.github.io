@@ -10,4 +10,4 @@ linkedin:
 twitter:
 ---
 
-Brian is a new undergraduate student working in the lab.
+Brian is an undergraduate student studying Genetics, Cellular Biology, and Development (GCD).
