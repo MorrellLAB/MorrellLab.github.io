@@ -6,7 +6,7 @@ end-date: Present
 image: "brian.jpg"
 google-scholar:
 github: https://github.com/BShaw0170
-linkedin:
+linkedin: https://www.linkedin.com/in/brian-shaw-68260888/
 twitter:
 ---
 
