@@ -6,7 +6,7 @@ end-date: Present
 image: malik.jpg
 google-scholar:
 github: https://github.com/maliksamuel
-linkedin:
+linkedin: www.linkedin.com/in/malik-samuel
 twitter:
 ---
 
