@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2018-06-21
+meet_date: 2018-06-22
 leader: "Peter Morrell"
 paper_author: "House GL & Hahn MW"
 paper_year: 2017
