@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2018-07-05
+meet_date: 2018-07-12
 leader: "Corey Carter"
 paper_author: "Distributed internally only"
 paper_year: "in preparation"
