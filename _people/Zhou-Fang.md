@@ -12,5 +12,5 @@ website: https://fangzhou0219.github.io
 ---
 
 PhD Plant Biological Sciences 2013.
-Data Scientist and Quantiative Geneticist at Bayer.
+Currently a data scientist at Syngenta, Raleigh-Durham, NC.
 Formerly a postdoctoral scholar with <a href="http://www4.ncsu.edu/~jholland/homepage.htm" rel="external">Jim Holland</a> at North Carolina State University.
