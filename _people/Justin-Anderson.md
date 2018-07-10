@@ -10,4 +10,4 @@ linkedin: https://www.linkedin.com/profile/view?id=321718866&authType=NAME_SEARC
 twitter:
 ---
 
-Justin is interested in soybean genomics. Currently a graduate student in the <a href="http://stuparlab.cfans.umn.edu/" rel="external">Stupar Lab</a>.
+Justin is interested in soybean genomics. Currently a postdoctoral researcher at Ruhr-Universität Bochum.
