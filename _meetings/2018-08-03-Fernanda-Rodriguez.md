@@ -1,7 +1,7 @@
 ---
 layout: meeting
-meet_date: 2018-08-03
-leader: "Fernanda Rodriguez"
+meet_date: 2018-08-02
+leader: "Fernanda Rodriguez" - Note special date and time, Thursday 1:00 pm
 paper_author: "Tyler Tiede, Kevin P. Smith"
 paper_year: "2018"
 paper_title: "Evaluation and retrospective optimization of genomic selection for yield and disease resistance in spring barley"
