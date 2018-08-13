@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+{% assign site_year = site.time | date: "%Y" %}
+{% assign site_day = site.time | date: "%j" %}
+
+<div class="home">
+
+    <!--<h1>Morrell Lab - University of Minnesota-->
+    <img src="{{ site.github_url }}{{site.images_dir }}Barley_Field.jpg" class="barleyfield">
+    <h1>Evolutionary Genetics and Plant Evolution</h1>
+    <p>Our lab is focused on genetic variation in plants.
+        Two major areas of emphasis include the impact of domestication on patterns of polymorphism in domesticated species and the contribution of recombination to genetic variation and patterns of linkage disequilibrium.
+    </p>
+    <br>
+    <img src="{{ site.github_url }}{{site.images_dir }}heatmap.jpg" class="heatmap">
+    <img src="./images/peter_heatmap.jpg" class="peter-heatmap">
+    <br>
+    <br>
+    <hr style="clear:both" />
+    <h2>News</h2>
+    <ul class="posts">
+        {% for post in site.meetings %}
+            {% assign post_year = post.meet_date | date: "%Y" %}
+            {% assign post_day = post.meet_date | date: "%j" %}
+            {% if post_year >= site_year %}
+                {% assign day_diff = post_day | minus: site_day %}
+                {% if day_diff <=6 and day_diff >= 0 %}
+                    <li>
+                        <span class="post-date">Lab Meeting: {{ post.meet_date | date: "%b %-d, %Y" }}</span>
+                        <a href="{{ post.paper_url }}">{{ post.paper_title }}</a><br />
+                        <span class="post-content">Discussion Leader: {{ post.leader }}</span>
+                    </li>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+        {% for post in site.compute %}
+            {% assign post_year = post.meet_date | date: "%Y" %}
+            {% assign post_day = post.meet_date | date: "%j" %}
+            {% if post_year >= site_year %}
+                {% assign day_diff = post_day | minus: site_day %}
+                {% if day_diff <=6 and day_diff >= 0 %}
+                    <li>
+                        <span class="post-date">Does[0]Compute? {{ post.meet_date | date: "%b %-d, %Y" }}</span>
+                        <a href="{{ post.url }}">{{ post.topic }}</a><br />
+                        <span class="post-content">Lead by: {{ post.leaders }}</span>
+                    </li>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+        {% for post in site.posts %}
+            <li>
+                <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+<!--
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+-->
+</div>
+
+<!-- Start Google Analytics -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-19694768-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- End Google Analytics -->

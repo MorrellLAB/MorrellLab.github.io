@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="post">
+    
+    <header class="post-header">
+        {{ page.topic }}
+        <p class="meta">
+            Lead by: {{ page.leaders }}
+            <br />
+            {{ page.meet_date | date: "%b %-d, %Y" }}
+        </p>
+    </header>
+    
+    <article class="post-content">
+        {{ content }}
+    </article>
+
+</div>

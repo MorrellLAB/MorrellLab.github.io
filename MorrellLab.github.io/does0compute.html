@@ -1,0 +1,66 @@
+---
+layout: page
+title: Does[0]Compute?
+permalink: /compute/
+---
+
+{% assign site_year = site.time | date: "%Y" %}
+{% assign site_day = site.time | date: "%j" %}
+
+<div class="home">
+
+    <p>
+        Does[0]compute? (pronounced “Does naught compute?”), is intended to foster a discussion about best practices in computational biology.
+        Visit the <a href="https://github.com/MorrellLAB/DoesNaughtCompute" rel="external">DoesNaughtCompute Github</a> for presentation slides, code, and sample data sets. Please bring a computer to use during the discussion.
+        For more information please sign up for the Google group, <a href="https://groups.google.com/a/umn.edu/forum/#!forum/biocomputing" rel ="external">Biocomputing Discussion Group</a>.
+    </p><br />
+    <p>
+        From <b>May 17<sup>th</sup></b> to <b>May 31<sup>st</sup></b>, the discussion group meets in <b>213 Borlaug Hall</b> every <b>Friday</b> from <b>3:00 PM - 4:00 PM</b>. Please see schedule below for dates we will meet and topics we will cover. All programming levels are welcome!
+    </p><br />
+    <p>
+        Subscribe to a <a href="webcal://p04-calendars.icloud.com/published/2/jE9MjkpWVIb9tq2CbFvpmB9asNoA59rK6468l9g2TZZunIk9znRNbxIQ4_srNiRQ-g9vgE_Q39d2yLgANj2zJLacC8YEDiZJrcaFhK3ROuw" rel="external">calendar</a> of Does[0]compute? meetings. (Mac only)
+    </p><br />
+    <hr />
+    <h2>Meeting Schedule</h2>
+    <ul class="posts">
+        {% for post in site.compute %}
+            {% assign post_year = post.meet_date | date: "%Y" %}
+            {% assign post_day = post.meet_date | date: "%j" %}
+            {% if  post_year >= site_year %}
+                {% if post_day >= site_day %}
+                    <li>
+                        <span class="post-date">{{ post.meet_date | date: "%b %-d, %Y" }}</span>
+                        <a href="{{ post.url }}">{{ post.topic }}</a><br />
+                        <span class="post-content">
+                            Lead by:
+                            {% if post.leaders %}
+                                {{ post.leaders }}
+                            {% else %}
+                                <em>To be determined</em>
+                            {% endif %}
+                        </span>
+                    </li>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    </ul>
+
+    <a href="../previousDNC/index.html">Previous Meetings</a>
+
+</div>
+
+<!-- Start Google Analytics -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-19694768-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<!-- End Google Analytics -->
+<!-- placeholder -->
+<!-- placeholder -->

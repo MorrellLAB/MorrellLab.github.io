@@ -1,0 +1,9 @@
+<!--This is so we don't have the if/else in people_blurb.html-->
+{% if include.rank == collaborator or former or honorary %}
+    {% if include.website %} <!-- Do we have a website for our collaborator? -->
+        <a href="{{ include.website }}" rel="external">{{ include.name }}</a>
+    {% else %}
+        {{ include.name }}
+    {% endif %}
+    {{ include.content }}<br><!-- Content from page, should be collaborator's location -->
+{% endif %}

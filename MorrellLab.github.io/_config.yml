@@ -1,0 +1,30 @@
+# Site settings
+title: Morrell Lab
+affiliation: University of Minnesota
+email: pmorrell@umn.edu
+description: "Evolutionary Genetics and Plant Evolution"
+baseurl: ""
+url: "MorrellLab.github.io"
+github_url: "https://github.com/MorrellLAB/MorrellLab.github.io/"
+images_dir: "/raw/master/images/"
+twitter_username: PeterLMorrell
+github_username:  MorrellLab
+future: true
+plugins_dir:
+  - jemoji
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Custom Collections
+collections:
+  meetings:
+    output: true
+  compute:
+    output: true
+  people:
+    output: true
+  publications:
+    output: true
+  classics:
+    output: true

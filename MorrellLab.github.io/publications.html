@@ -1,0 +1,88 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
+{% capture all_years %}
+    {% for post in site.publications %}{% if post.type == 'preprint' %}{{ post.type }}{% else %}{{ post.date | date: "%Y" }}{% endif %}, {% endfor %}
+{% endcapture %} <!-- Create a string of all years listed in our _publications, delimited by a comma and a space-->
+{% assign post_years = all_years | split : ',' | uniq %}<!-- Create an array out of the unique values -->
+
+<div class="home">
+    <h4> <!-- Links to Google Scholar, ISI, ORCiD, and PubMed for Peter -->
+        <a href="http://scholar.google.com/citations?user=GnCbOj4AAAAJ&hl=en" rel="external">Google Scholar</a> |
+        <a href="http://www.researcherid.com/ProfileView.action?SID=3FQCX6BjUEzreDOoabY&returnCode=ROUTER.Success&queryString=KG0UuZjN5WnWRkoEY6n%252Fnao36n1lwZN%252BI6RDxvBApGM%253D&SrcApp=CR&Init=Yes" rel="external">ISI</a> |
+        <a href="http://orcid.org/0000-0001-6282-1582" rel="external">ORCiD</a> |
+        <a href="http://www.ncbi.nlm.nih.gov/pubmed?cmd=PureSearch&term=morrell+pl%5BAuthor%5D" rel="external">PubMed</a>
+    </h4>
+        <!-- All publications from the lab -->
+        {% for year in post_years reversed %} <!-- For every year in our array, in descending order -->
+            {% unless year == ' ' %} <!-- If the year is not a space, necessary because of the way we delimited our string -->
+                <ul class="posts"> <!-- Format as posts -->
+                {% if year contains 'preprint' %} <!-- If we're looking at preprints right now, use `contains' because of our string delimter -->
+                    <h2>Preprints and Articles in Review</h2> <!-- Special header -->
+                {% else %} <!-- Otherwise -->
+                    <h2>{{ year }}</h2> <!-- Just the year -->
+                {% endif %}
+                {% for post in site.publications reversed %} <!-- For every publication entry -->
+                    {% capture this_year %}{% if post.type == 'preprint' %}{{ post.type }}{% else %}{{ post.date | date: "%Y" }}{% endif %}{% endcapture %} <!-- Capture the year of the current paper as a string -->
+                    {% if year contains this_year %} <!-- If our overall year contains the value of the paper's year (again with the space) -->
+                        <!-- Create an entry for this paper -->
+                        <span class="post-content">{{ post.paper_author }} ({{ this_year }}). <a href="{{ post.paper_url }}">{{ post.paper_title }}</a>. {{post.paper_journal }}.</span><br />
+                        {% if post.num_citations %}
+                            &#8226 <a href="{{ post.citation_url }}">{{ post.num_citations }} citations</a>
+                        {% endif %}
+                        {% if post.preprint %}
+                            &#8226 <a href="{{ post.preprint }}">Preprint version</a>
+                        {% endif %}
+                        {% if post.dataset %}
+                            &#8226 <a href="{{ post.dataset }}">Associated dataset</a>
+                        {% endif %}
+                        {% if post.github %}
+                            &#8226 <a href="{{ post.github }}">Github</a>
+                        {% endif %}
+                        {% if post.documentation %}
+                            &#8226 <a href="{{ post.documentation }}">Program documentation</a>
+                        {% endif %}
+                        {% if post.poster %}
+                            &#8226 <a href="{{ post.poster }}">Poster</a>
+                        {% endif %}
+                        {% if post.spanish %}
+                            &#8226 <a href="../spanish/index.html">Resumen en español</a>
+                        {% endif %}
+                        {% if post.num_citations or post.preprint or post.github or post.documentation or post.poster or post.spanish %}
+                            <br>
+                        {% endif %}
+                        {% if post.highlight %}
+                            Research highlight by Robin Allaby: <a href="http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0743-9" rel="external">Barley domestication: the end of a central dogma?</a><br>
+                        {% endif %}
+                        {% if post.newsviews %}
+                            <a href="http://www.nature.com/ng/journal/v44/n7/full/ng.2326.html" rel="external">Nature Genetics News and Views</a><br>
+                        {% endif %}
+                        {% if post.content %} <!-- Include any extra content if present -->
+                            <span class="post-content">{{ post.content }}</span>
+                        {% endif %}
+                        {% if post.pdf %}
+                            &#8226 <a href="{{ post.pdf }}">PDF</a>
+                        {% endif %}
+                        <br /> <!-- One last line break -->
+                    {% endif %}
+                {% endfor %}
+                </ul>
+            {% endunless %}
+        {% endfor %}
+</div>
+
+<!-- Start Google Analytics -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-19694768-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- End Google Analytics -->

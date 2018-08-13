@@ -1,0 +1,16 @@
+# Ignore the _site/ directory #
+###############################
+_site/
+
+# Ignore the .vscode/ directory #
+#################################
+.vscode/
+
+# Ignore .bib files #
+#####################
+*.bib
+
+# Ignore Gemfile.lock #
+Gemfile.lock
+
+*.DS_Store
