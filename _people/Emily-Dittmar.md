@@ -11,4 +11,4 @@ linkedin:
 twitter: https://twitter.com/ELDittmar
 ---
 
-Postdoctoral scholar co-advised with Dr. John Burke.
+Emily is a postdoctoral scholar co-advised with Dr. John Burke.
