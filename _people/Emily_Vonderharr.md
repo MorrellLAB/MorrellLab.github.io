@@ -3,7 +3,7 @@ name: "Emily Vonderharr"
 rank: undergraduate
 start-date: 2017-05-15
 end-date: Present
-image: emily_vonderharr.jpg
+image: "emily_vonderharr.jpg"
 google-scholar:
 github: https://github.com/emilyvonderharr
 linkedin:
