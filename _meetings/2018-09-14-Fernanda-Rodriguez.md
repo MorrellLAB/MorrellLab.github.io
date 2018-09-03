@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2018-09-07
+meet_date: 2018-09-14
 leader: "Fernanda Rodriguez"
 paper_author: "Blanc G, Charcosset A, Mangin B, Gallais A, Moreau L"
 paper_year: "2006"
