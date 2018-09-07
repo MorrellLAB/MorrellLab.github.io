@@ -1,5 +1,5 @@
 ---
-num_citations: "8"
+num_citations: "21"
 dataset: "https://conservancy.umn.edu/handle/11299/181502"
 software_name: "BAD_Mutations"
 preprint: "http://biorxiv.org/content/early/2016/05/12/033175"

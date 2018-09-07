@@ -1,5 +1,5 @@
 ---
-num_citations: "2"
+num_citations: "16"
 dataset: "https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msw296#supplementary-data"
 paper_author: "Liu Q, Zhou Y, Morrell PL, Gaut BS"
 preprint: "http://biorxiv.org/content/early/2016/06/05/057224"

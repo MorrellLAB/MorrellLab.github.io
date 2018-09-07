@@ -1,5 +1,5 @@
 ---
-num_citations: "10"
+num_citations: "23"
 paper_author: "Nice LM, Steffenson BJ, Brown-Guedira GL, Akhunov ED, Liu C, Kono TJY, Morrell PL, Horsley RD, Smith KP, Muehlbauer GJ"
 paper_journal: "Genetics 203: 1453-1467"
 paper_title: "Development and genetic characterization of an Advanced Backcross – Nested Association Mapping (AB-NAM) population of wild x cultivated barley"

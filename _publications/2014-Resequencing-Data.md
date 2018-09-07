@@ -4,7 +4,7 @@ citation_url: "http://scholar.google.com/scholar?cites=12558375288325654723&as_s
 layout: default
 dataset: "../datasets/index.html"
 paper_author: "Morrell PL, Gonzales AM, Meyer KK, Clegg MT"
-num_citations: "22"
+num_citations: "27"
 paper_journal: "Journal of Heredity 105: 253-264"
 paper_url: "http://jhered.oxfordjournals.org/content/105/2/253.abstract"
 cluster: 12558375288325654723

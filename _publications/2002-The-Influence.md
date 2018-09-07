@@ -4,7 +4,7 @@ citation_url: "http://scholar.google.com/scholar?cites=14645358256611236648&as_s
 layout: default
 dataset: "http://www.ncbi.nlm.nih.gov/popset?term=morrell%20adh2"
 paper_author: "Lin JZ, Morrell PL, Clegg MT"
-num_citations: "47"
+num_citations: "46"
 paper_journal: "Genetics 162: 2007-2015"
 paper_url: "http://www.genetics.org/content/162/4/2007.abstract"
 cluster: 14645358256611236648
