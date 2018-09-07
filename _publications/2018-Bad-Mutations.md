@@ -8,5 +8,7 @@ paper_journal: "G3"
 date: "2018-08-23"
 paper_url: "http://www.g3journal.org/content/early/2018/08/23/g3.118.200563"
 preprint: "http://biorxiv.org/content/early/2017/02/27/112318"
+citation_url: "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13167649837576262846"
+cluster: 13167649837576262846
 layout: default
 ---
