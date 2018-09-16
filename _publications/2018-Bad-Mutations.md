@@ -1,6 +1,7 @@
 ---
 num_citations: "1"
 dataset: "https://conservancy.umn.edu/handle/11299/198094"
+github: "https://github.com/MorrellLAB/BAD_Mutations"
 paper_author: "Kono TJY, Lei L, Shih C, Hoffman PJ, Morrell PL, Fay JC"
 date: 2017-02-27
 paper_title: "Comparative genomics approaches accurately predict deleterious variants in plants"
