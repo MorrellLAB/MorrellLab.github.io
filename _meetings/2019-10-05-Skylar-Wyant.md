@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2018-10-05
-leader: "Li Lei - Note: weekly meeting time changed to 1:00 PM Fridays"
+leader: "Skylar Wyant - Note: weekly meeting time changed to 1:00 PM Fridays"
 paper_author: "Felsenstein J & Yokoyama S"
 paper_year: "1976"
 paper_title: "The evolutionary advantage of recombination. II. individual selection for recombination"
