@@ -7,7 +7,7 @@ date: 2017-02-27
 paper_title: "Comparative genomics approaches accurately predict deleterious variants in plants"
 paper_journal: "G3"
 date: "2018-08-23"
-paper_url: "http://www.g3journal.org/content/early/2018/08/23/g3.118.200563"
+paper_url: "http://www.g3journal.org/content/8/10/3321"
 preprint: "http://biorxiv.org/content/early/2017/02/27/112318"
 citation_url: "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13167649837576262846"
 cluster: 13167649837576262846
