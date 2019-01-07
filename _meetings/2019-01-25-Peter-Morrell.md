@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-01-11
+meet_date: 2019-01-25
 leader: "Peter Morrell"
 paper_author: "Belyeu JR, Nicholas TJ, Pedersen BS, Sasani TA, Havrilla JM et al."
 paper_year: "2018"
