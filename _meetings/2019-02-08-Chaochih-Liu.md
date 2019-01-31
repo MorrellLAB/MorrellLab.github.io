@@ -1,7 +1,7 @@
 ---
 layout: meeting
-meet_date: 2019-02-01
-leader: "Skylar Wyant"
+meet_date: 2019-02-08
+leader: "Chaochih Liu"
 paper_author: "Amorim CEG, Gao Z, Baker Z, Diesel JF, Simons YB et al."
 paper_year: "2017"
 paper_title: "The population genetics of human disease: The case of recessive, lethal mutations"
