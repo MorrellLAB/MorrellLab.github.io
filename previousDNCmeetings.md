@@ -13,7 +13,7 @@ permalink: /previousDNC/
             {% assign post_year = post.meet_date | date: "%Y" %}
             {% assign post_day = post.meet_date | date: "%j" %}
             {% if  post_year <= site_year %}
-                {% if post_day <= site_day %}
+                {% if post_year != site_year or post_day <= site_day %}
                     <li>
                         <span class="post-date">{{ post.meet_date | date: "%b %-d, %Y" }}</span>
                         <a href="{{ post.url }}">{{ post.topic }}</a><br />
