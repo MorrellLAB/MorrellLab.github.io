@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-02-08
+meet_date: 2019-02-15
 leader: "Chaochih Liu"
 paper_author: "Amorim CEG, Gao Z, Baker Z, Diesel JF, Simons YB et al."
 paper_year: "2017"

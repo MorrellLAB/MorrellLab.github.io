@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-02-15
+meet_date: 2019-02-22
 leader: "Peter Morrell"
 paper_author: "Huang Y, Gulko B, Siepel A"
 paper_year: "2017"
