@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2019-04-12
+meet_date: 2019-03-29
 topic: "Organized project structure"
 leaders: "Skylar Wyant"
 ---
