@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-03-01
+meet_date: 2019-02-27
 leader: "Y chromosome owners - Wednesday at 1:00 PM - Multiple papers!"
 paper_author: "Leslie SJ, Cimpian A, Meyer M, Freeland E"
 paper_year: "2015"

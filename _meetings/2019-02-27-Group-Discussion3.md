@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-03-01
+meet_date: 2019-02-27
 leader: "Y chromosome owners - Wednesday at 1:00 PM - Multiple papers!"
 paper_author: "Dung SK, Lópex A, Barragan EL, Reyes RJ, Thu R et al."
 paper_year: "2019"
