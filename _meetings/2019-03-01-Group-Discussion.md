@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2019-03-01
-leader: "Group Discussion"
+leader: "Group Discussion - Wednesday at 1:00 PM - Multiple papers!"
 paper_author: "PAG"
 paper_year: "2019"
 paper_title: "Discuss PAG talks and posters"

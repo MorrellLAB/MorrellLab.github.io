@@ -2,7 +2,7 @@
 layout: compute
 meet_date: 2019-03-29
 topic: "Organized project structure"
-leaders: "Skylar Wyant"
+leaders: "Group Discussion"
 ---
 
 We will discuss the best practices for designing and following a project structure that will aid both reproducible research and project organization in general.
