@@ -8,7 +8,7 @@ paper_title: "The fate of deleterious variants in a barley genomic prediction po
 paper_journal: "bioRxiv"
 paper_url: "https://www.biorxiv.org/content/early/2018/10/12/442020"
 preprint: "https://www.biorxiv.org/content/early/2018/10/12/442020"
-#dataset: "https://conservancy.umn.edu/handle/q"
+dataset: "https://morrelllab.github.io/datasets/index.html"
 #citation_url: ""
 #cluster: 
 

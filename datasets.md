@@ -12,6 +12,34 @@ There are also links to a couple of datasets (e.g., wild barley Adh1 and Adh3, S
 
 <!--[Kono et al. (preprint)](http://biorxiv.org/content/early/2017/02/27/112318) bioRxiv-->
 
+Morrell et al. - in preparation.
+
++ Barley cultivars used as hybrid parents - 27 whole genomes (under preparation)
+
++ Data produced with Syngenta (not yet submitted to NCBI)
+
+Liu et al. - in preparation. 
+
++ Barley landraces - 73 exomes (under preparation)
+
++ [Barley cultivars - 67 exomes (processing at NCBI)](https://www.ncbi.nlm.nih.gov/bioproject/523236)
+
+Lei et al. - in preparation. [Wild barley - 80 exomes](https://www.ncbi.nlm.nih.gov/bioproject/472251)
+
+Olhoff et al. 2019. Manuscript in review at Genetics.
+
++ [Mapping population progeny - 6581 GBS genotypes](https://www.ncbi.nlm.nih.gov/bioproject/488050)
+
++ [Barley landraces & cultivars (mapping parents) - 78 exomes (processing at NCBI)](https://www.ncbi.nlm.nih.gov/bioproject/524166)
+
+[Kono et al. 2019](https://www.biorxiv.org/content/10.1101/442020v1). bioRxiv.
+
++ [*Hordeum murinum ssp. glaucum* - whole genome sequencing by Dan Koenig](https://www.ncbi.nlm.nih.gov/bioproject/491526)
+
++ [Barley cultivars - 21 exomes](https://www.ncbi.nlm.nih.gov/bioproject/399170)
+
+[Lei et al. 2019](https://www.biorxiv.org/content/10.1101/405399v3). bioRxiv. [Barley landraces - 25 exomes](https://www.ncbi.nlm.nih.gov/bioproject/473780)
+
 [Liu et al. 2017](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msw296). MBE. 
 [Supplementary Data, including locations of selective sweeps in rice](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msw296#supplementary-data)
 
