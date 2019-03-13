@@ -1,7 +1,7 @@
 ---
 layout: compute
 meet_date: 2019-03-15
-topic: "Basic data structures and algorithms in Python"
+topic: "Basic data structures in Python"
 leaders: "Group Discussion"
 ---
 
