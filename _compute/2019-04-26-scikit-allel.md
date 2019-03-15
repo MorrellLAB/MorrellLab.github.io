@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2018-04-26
+meet_date: 2019-04-26
 topic: "Hands-on VCF analysis with scikit-allel"
 leaders: "Group Discussion"
 ---
