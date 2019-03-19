@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-03-22
+meet_date: 2019-04-05
 leader: "Emily Dittmar"
 paper_author: "Badouin H, Gouzy J, Grassa CJ, Murat F, Staton SE et al."
 paper_year: "2017"
