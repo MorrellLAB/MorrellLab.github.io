@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 {% capture all_years %}
-    {% for post in site.publications %}{% if post.type == 'preprint' %}{{ post.type }}{% else %}{{ post.date | date: "%Y" }}{% endif %}, {% endfor %}
+    {% for post in site.publications %}{% if post.type == 'preprint' or post.type == 'in review' %}{{ post.type }}{% else %}{{ post.date | date: "%Y" }}{% endif %}, {% endfor %}
 {% endcapture %} <!-- Create a string of all years listed in our _publications, delimited by a comma and a space-->
 {% assign post_years = all_years | split : ',' | uniq %}<!-- Create an array out of the unique values -->
 
@@ -23,13 +23,19 @@ permalink: /publications/
                 {% if year contains 'preprint' %} <!-- If we're looking at preprints right now, use `contains' because of our string delimter -->
                     <h2>Preprints and Articles in Review</h2> <!-- Special header -->
                 {% else %} <!-- Otherwise -->
-                    <h2>{{ year }}</h2> <!-- Just the year -->
+                    {% unless year contains 'in review' %}
+                        <h2>{{ year }}</h2> <!-- Just the year -->
+                    {% endunless %}
                 {% endif %}
                 {% for post in site.publications reversed %} <!-- For every publication entry -->
-                    {% capture this_year %}{% if post.type == 'preprint' %}{{ post.type }}{% else %}{{ post.date | date: "%Y" }}{% endif %}{% endcapture %} <!-- Capture the year of the current paper as a string -->
+                    {% capture this_year %}{% if post.type == 'preprint' or post.type == 'in review' %}{{ 'preprint' }}{% else %}{{ post.date | date: "%Y" }}{% endif %}{% endcapture %} <!-- Capture the year of the current paper as a string -->
                     {% if year contains this_year %} <!-- If our overall year contains the value of the paper's year (again with the space) -->
                         <!-- Create an entry for this paper -->
-                        <span class="post-content">{{ post.paper_author }} ({{ this_year }}). <a href="{{ post.paper_url }}">{{ post.paper_title }}</a>. {{post.paper_journal }}.</span><br />
+                        {% if post.type == 'in review' %}
+                            <span class="post-content">{{ post.paper_author }} ({{ post.type }}). <a href="{{ post.paper_url }}">{{ post.paper_title }}</a>. {{post.paper_journal }}.</span><br />
+                        {% else %}
+                            <span class="post-content">{{ post.paper_author }} ({{ this_year }}). <a href="{{ post.paper_url }}">{{ post.paper_title }}</a>. {{post.paper_journal }}.</span><br />
+                        {% endif %}
                         {% if post.num_citations %}
                             &#8226 <a href="{{ post.citation_url }}">{{ post.num_citations }} citations</a>
                         {% endif %}
