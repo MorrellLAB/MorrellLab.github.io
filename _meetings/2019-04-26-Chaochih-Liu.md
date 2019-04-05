@@ -2,9 +2,9 @@
 layout: meeting
 meet_date: 2019-04-26
 leader: "Chaochih Liu"
-paper_author: "Na Li and Matthew Stephens"
-paper_year: "2003"
-paper_title: "Modeling linkage disequilibrium and identifying recombination hotspots using single-nucleotide polymorphism data"
-paper_journal: "Genetics"
-paper_url: "http://www.genetics.org/content/165/4/2213.long"
+paper_author: "Roessler K, Muyle A, Diez CM, Gaut GRJ, Bousios A et al."
+paper_year: "2019"
+paper_title: "The genomics of selfing in maize (Zea mays ssp. mays): catching purging in the act"
+paper_journal: "bioRxiv"
+paper_url: "https://www.biorxiv.org/content/10.1101/594812v1"
 ---

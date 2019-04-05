@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2019-05-10
+meet_date: 2019-04-26
 topic: "Fast PCA with scikit-allel"
 leaders: "Group Discussion"
 ---

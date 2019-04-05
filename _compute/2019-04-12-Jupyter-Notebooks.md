@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2019-04-26
+meet_date: 2019-04-12
 topic: "How to use Jupyter Notebooks for Bash and Python programming"
 leaders: "Group Discussion"
 ---
