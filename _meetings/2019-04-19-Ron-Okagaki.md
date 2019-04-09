@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-04-12
+meet_date: 2019-04-19
 leader: "Ron Okagaki"
 paper_author: "Okagaki R, Dukowic-Schulze S, Eggleston WB, Muehlbauer GJ"
 paper_year: "2018"
