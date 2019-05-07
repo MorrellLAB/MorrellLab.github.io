@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2019-05-24
+meet_date: 2019-05-31
 topic: "Performant Python Ch. 10: Clusters and Job Queues"
 leaders: "Group Discussion"
 ---
