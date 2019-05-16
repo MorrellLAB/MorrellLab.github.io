@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-05-24
+meet_date: 2019-05-31
 leader: "Peter Morrell"
 paper_author: "Pont C, Leroy T, Seidel M, Tondelli A, Duchemin W et al."
 paper_year: "2019"
