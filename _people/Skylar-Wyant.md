@@ -10,4 +10,4 @@ linkedin:
 twitter:
 ---
 
-Skylar is interested in bioinformatics and using computational tools to automate sequence processing.
+Skylar is interested in bioinformatics and population genetics.
