@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-06-07
+meet_date: 2019-05-31
 leader: "Skylar Wyant"
 paper_author: "Leffler EM, Bullaughey K, Mutate DR, Meyer WK, Ségurel L et al."
 paper_year: "2012"

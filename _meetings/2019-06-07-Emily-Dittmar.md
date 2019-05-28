@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-06-21
+meet_date: 2019-06-07
 leader: "Emily Dittmar"
 paper_author: "Keightley PD, Jackson BC"
 paper_year: "2018"
