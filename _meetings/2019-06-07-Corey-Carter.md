@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-06-21
+meet_date: 2019-06-07
 leader: "Corey Carter"
 paper_author: "Fang Z, Eule-Nashoba A, Powers C, Kono TY, Takuno S, Morrell P, Smith KP"
 paper_year: "2013"
