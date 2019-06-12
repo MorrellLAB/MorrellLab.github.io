@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2019-06-14
+meet_date: 2019-06-28
 topic: "Reproducible Bioconductor workflows using browser-based interactive notebooks and containers"
 leaders: "Group Discussion"
 ---
