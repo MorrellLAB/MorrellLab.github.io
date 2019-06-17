@@ -1,7 +1,7 @@
 ---
 layout: meeting
-meet_date: 2019-07-10
-leader: "Peter Morrell - Special time: Wednesday at 1:00 PM"
+meet_date: 2019-07-19
+leader: "Peter Morrell"
 paper_author: "Macdonald and Long"
 paper_year: "2007"
 paper_title: "Joint estimates of quantitative trait locus effect and frequency using synthetic recombinant populations of <i>Drosophila melanogaster</i>"
