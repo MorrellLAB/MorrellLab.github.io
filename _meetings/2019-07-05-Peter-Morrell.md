@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-07-19
+meet_date: 2019-07-05
 leader: "Peter Morrell"
 paper_author: "Macdonald and Long"
 paper_year: "2007"

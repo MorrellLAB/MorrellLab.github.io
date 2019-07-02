@@ -1,7 +1,7 @@
 ---
 layout: meeting
-meet_date: 2019-07-10
-leader: "Chaochih Liu - Special time: Wednesday at 1:00 PM"
+meet_date: 2019-07-11
+leader: "Chaochih Liu - Special time: Thursday at 1:00 PM"
 paper_author: "Burke MK, Liti G, Long AD"
 paper_year: "2014"
 paper_title: "Standing genetic variation drives repeatable experimental evolution in outcrossing populations of <i>Saccharomyces cerevisiae</i>"

@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-07-05
+meet_date: 2019-08-02
 leader: "Skylar Wyant"
 paper_author: "Hemshrot A, Poets AM, Tyagi P, Lei L, Carter CK, Hirsch CN, Li L, Brown-Guedira G, Morrell PL, Muehlbauer GJ, Smith KP"
 paper_year: "2019"
