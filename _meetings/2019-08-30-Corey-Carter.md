@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2019-08-30
-leader: "Corey Carter"
+leader: "Skylar Wyant"
 paper_author: "Graham N, Patil GB, Bubeck DM, Dobert RC, Glenn KC et al."
 paper_year: "2019"
 paper_title: "Plant genome editing and the relevance of off-target changes"
