@@ -7,8 +7,8 @@ paper_title: "Development of a multi-parent population for genetic mapping and a
 paper_journal: "Genetics"
 paper_url: "https://doi.org/10.1534/genetics.119.302046"
 #preprint: "https://www.biorxiv.org/content/early/2018/08/31/405399"
-#dataset: "https://morrelllab.github.io/datasets/index.html"
+dataset: "https://morrelllab.github.io/datasets/index.html"
+github: "https://github.com/UMN-BarleyOatSilphium/BRIDG6"
 #citation_url: ""
 #cluster: 
-
 ---

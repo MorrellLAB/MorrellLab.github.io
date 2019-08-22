@@ -18,7 +18,13 @@ There are also links to a couple of datasets (e.g., wild barley Adh1 and Adh3, S
 
 + [Barley cultivars - 21 exomes](https://www.ncbi.nlm.nih.gov/bioproject/399170)
 
-[Lei et al. 2019](https://www.biorxiv.org/content/10.1101/405399v3). bioRxiv. [Barley landraces - 25 exomes](https://www.ncbi.nlm.nih.gov/bioproject/473780)
+[Lei et al. 2019](https://www.biorxiv.org/content/10.1101/405399v3). G3. 
+
++ [Barley landraces - 25 exomes](https://www.ncbi.nlm.nih.gov/bioproject/473780)
+
++ [DRUM archive](https://conservancy.umn.edu/handle/11299/201645)
+
+[Hemshrot et al. 2019](https://doi.org/10.1534/genetics.119.302046). Genetics. [DRUM archive](https://conservancy.umn.edu/handle/11299/205507)
 
 [Liu et al. 2017](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msw296). MBE. 
 [Supplementary Data, including locations of selective sweeps in rice](https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msw296#supplementary-data)

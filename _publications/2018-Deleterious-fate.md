@@ -9,7 +9,7 @@ paper_journal: "bioRxiv"
 paper_url: "https://www.biorxiv.org/content/early/2018/10/12/442020"
 preprint: "https://www.biorxiv.org/content/early/2018/10/12/442020"
 dataset: "https://morrelllab.github.io/datasets/index.html"
+github: "https://github.com/MorrellLAB/Deleterious_GP"
 #citation_url: ""
 #cluster: 
-
 ---
