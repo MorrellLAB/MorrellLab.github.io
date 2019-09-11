@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-09-13
+meet_date: 2019-09-20
 leader: "Chaochih Liu"
 paper_author: "Martin SH, Davey JW, Salazar C, Jiggins CD"
 paper_year: "2019"
