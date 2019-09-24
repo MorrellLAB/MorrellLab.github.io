@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2019-10-07
+meet_date: 2019-10-14
 leader: "Peter Morrell"
 paper_author: "Booker TR, Yeaman S, Whitlock MC"
 paper_year: "2019"
