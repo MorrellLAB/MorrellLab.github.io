@@ -1,8 +1,8 @@
 ---
 name: "Brian Shaw"
-rank: undergraduate
+rank: former
 start-date: 2018-06-14
-end-date: Present
+end-date: 2019-05-15
 image: "brian.jpg"
 google-scholar:
 github: https://github.com/BShaw0170

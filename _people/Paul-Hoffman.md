@@ -10,4 +10,4 @@ linkedin: https://www.linkedin.com/in/pauljhoffman
 twitter: https://twitter.com/MojaveAzure
 ---
 
-Paul is the bioinformatics specialist. He is interested in population structure, plant pathology and immunology, and computational biology.
+Paul is the bioinformatics specialist. He is interested in population structure, plant pathology and immunology, and computational biology. He is currently a bioinformatician at the New York Genome Center.

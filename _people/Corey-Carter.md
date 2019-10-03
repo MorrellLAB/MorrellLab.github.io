@@ -1,8 +1,8 @@
 ---
 name: "Corey Carter"
-rank: undergraduate
-start-date: 2016-06-01
-end-date: Present
+rank: former
+start-date: 2019-06-01
+end-date: 2019-09-23
 image: "corey.jpg"
 google-scholar:
 github: https://github.com/carte731
