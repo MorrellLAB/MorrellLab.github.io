@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2019-10-28
-leader: "Chaochih Liu - Part II: pgs 476-end"
+leader: "Skylar Wyant - Part II: pgs 476-end"
 paper_author: "Sella G, Barton NH"
 paper_year: "2019"
 paper_title: "Thinking about the evolution of complex traits in the era of genome-wide association studies"
