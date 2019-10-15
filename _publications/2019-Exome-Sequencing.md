@@ -8,7 +8,7 @@ paper_journal: "Nature Genetics 51: 896–904"
 paper_url: "https://doi.org/10.1038/s41588-019-0382-2"
 #preprint: "https://www.biorxiv.org/content/early/2018/08/31/405399"
 #dataset: "https://morrelllab.github.io/datasets/index.html"
-#citation_url: ""
-#cluster: 
+citation_url: "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14281500023578938644"
+cluster: 14281500023578938644
 
 ---

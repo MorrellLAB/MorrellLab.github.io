@@ -9,6 +9,6 @@ paper_url: "https://doi.org/10.1534/genetics.119.302046"
 #preprint: "https://www.biorxiv.org/content/early/2018/08/31/405399"
 dataset: "https://doi.org/10.13020/c5kj-af95"
 github: "https://github.com/UMN-BarleyOatSilphium/BRIDG6"
-#citation_url: ""
-#cluster:
+citation_url: "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=768545075598730558&as_sdt=5"
+cluster: 768545075598730558
 ---
