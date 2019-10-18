@@ -1,7 +1,7 @@
 ---
 layout: default
 #num_citations: "1"
-paper_author: "Lei L, Poets AM, Liu C, Wyant SR, Hoffman PJ, Carter CK, Li X, Muehlbauer GJ, Katagiri F, Morrell PL"
+paper_author: "Lei L, Poets AM, Liu C, Wyant SR, Hoffman PJ, Carter CK, Shaw BG, Li X, Muehlbauer GJ, Katagiri F, Morrell PL"
 date: "2019-08-22"
 paper_title: "Environmental association identifies candidates for tolerance to low temperature and drought"
 paper_journal: "G3 9: 3423-3438"

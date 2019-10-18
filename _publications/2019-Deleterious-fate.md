@@ -1,7 +1,7 @@
 ---
 layout: default
 #num_citations: "1"
-paper_author: "Kono TJY, Liu C, Vonderharr EE, Koenig, D, Fay JC, Smith KP, Morrell PL"
+paper_author: "Kono TJY, Liu C, Vonderharr EE, Koenig D, Fay JC, Smith KP, Morrell PL"
 date: "2019-10-11"
 paper_title: "The fate of deleterious variants in a barley genomic prediction population"
 paper_journal: "Genetics"
