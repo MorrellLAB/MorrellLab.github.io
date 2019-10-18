@@ -7,6 +7,6 @@ paper_author: "Carlquist S, Manchester SSR, Morrell PL"
 num_citations: "13"
 paper_journal: "Aliso 13: 521-549"
 paper_url: "http://www.rsabg.org/scientific-publications"
-cluster: 13765301233094265490
+cluster: 14529344152854832257
 date: "1993-12-30"
 ---

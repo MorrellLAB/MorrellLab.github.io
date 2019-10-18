@@ -4,7 +4,7 @@ citation_url: "http://scholar.google.com/scholar?cites=5061925040496971160&as_sd
 layout: default
 dataset: "../datasets/index.html"
 paper_author: "Morrell PL, Rieseberg LH"
-num_citations: "47"
+num_citations: "51"
 paper_journal: "American Journal of Botany 85: 1439-1453"
 paper_url: "http://www.amjbot.org/cgi/content/abstract/85/10/1439"
 cluster: 5061925040496971160

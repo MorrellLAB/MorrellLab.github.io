@@ -4,9 +4,9 @@ citation_url: "http://scholar.google.com/scholar?cites=17509757011666462416&as_s
 layout: default
 dataset: "../datasets/index.html"
 paper_author: "Chen HF, Morrell PL, Ashworth VE, de la Cruz M, Clegg MT"
-num_citations: "93"
+num_citations: "122"
 paper_journal: "Journal of Heredity 100: 56-65"
 paper_url: "http://jhered.oxfordjournals.org/content/100/1/56.abstract"
-cluster: 3009567321609502370
+cluster: 17509757011666462416
 date: "2009-01-01"
 ---

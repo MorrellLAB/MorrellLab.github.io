@@ -4,7 +4,7 @@ citation_url: "http://scholar.google.com/scholar?cites=3166515624871387664&as_sd
 layout: default
 dataset: "../datasets/index.html"
 paper_author: "Fang Z, Gonzales AM, Durbin ML, Meyer KKT, Miller BH, Volz KM, Clegg MT, Morrell PL "
-num_citations: "6"
+num_citations: "9"
 paper_journal: "Journal of Heredity 104: 666-677"
 paper_url: "http://jhered.oxfordjournals.org/content/early/2013/07/26/jhered.est046.abstract"
 cluster: 3166515624871387664

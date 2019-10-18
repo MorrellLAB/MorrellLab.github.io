@@ -4,7 +4,7 @@ citation_url: "http://scholar.google.com/scholar?cites=8829349449616112932&as_sd
 layout: default
 dataset: "../datasets/index.html"
 paper_author: "Morrell PL, Clegg MT"
-num_citations: "280"
+num_citations: "310"
 paper_journal: "Proceedings of the National Academy of Sciences of the United States of America 104: 3289-3294"
 paper_url: "http://www.pnas.org/content/104/9/3289.abstract"
 cluster: 8829349449616112932

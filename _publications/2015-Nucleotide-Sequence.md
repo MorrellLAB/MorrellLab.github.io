@@ -1,5 +1,5 @@
 ---
-num_citations: "1"
+num_citations: "3"
 paper_author: "He SL, Yang Y, Morrell PL, Yi TS"
 paper_journal: "PLoS One 10: e0137088"
 paper_title: "Nucleotide sequence diversity and linkage disequilibrium of four nuclear loci in foxtail millet (<i>Setaria italica</i>)"
