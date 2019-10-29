@@ -12,17 +12,19 @@ There are also links to a couple of datasets (e.g., wild barley Adh1 and Adh3, S
 
 <!--[Kono et al. (preprint)](http://biorxiv.org/content/early/2017/02/27/112318) bioRxiv-->
 
-[Kono et al. 2019](https://www.biorxiv.org/content/10.1101/442020v1). bioRxiv.
+[Kono et al. 2019](https://doi.org/10.1534/genetics.119.302733). Genetics.
 
 + [*Hordeum murinum ssp. glaucum* - whole genome sequencing by Dan Koenig](https://www.ncbi.nlm.nih.gov/bioproject/491526)
 
 + [Barley cultivars - 21 exomes](https://www.ncbi.nlm.nih.gov/bioproject/399170)
 
-[Lei et al. 2019](https://www.biorxiv.org/content/10.1101/405399v3). G3. 
++ [DRUM archive](https://doi.org/10.13020/d6w990)
+
+[Lei et al. 2019](https://doi.org/10.1534/g3.119.400401). G3. 
 
 + [Barley landraces - 25 exomes](https://www.ncbi.nlm.nih.gov/bioproject/473780)
 
-+ [DRUM archive](https://conservancy.umn.edu/handle/11299/201645)
++ [DRUM archive](https://doi.org/10.13020/adqb-bb41)
 
 [Hemshrot et al. 2019](https://doi.org/10.1534/genetics.119.302046). Genetics. [DRUM archive](https://conservancy.umn.edu/handle/11299/205507)
 
