@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2019-11-11
-leader: "Li Lei"
+leader: "Emily Dittmar"
 paper_author: "Hayward LK, Sella G"
 paper_year: "2019"
 paper_title: "Polygenic adaptation after a sudden change in environment"
