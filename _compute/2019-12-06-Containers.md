@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2019-11-22
+meet_date: 2019-12-06
 topic: "Enhancing reproducibility in scientific computing: Metrics and registry for Singularity containers"
 leaders: "Group Discussion"
 ---
