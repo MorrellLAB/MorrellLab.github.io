@@ -1,7 +1,7 @@
 ---
 layout: meeting
-meet_date: 2019-12-02
-leader: "Chaochih Liu"
+meet_date: 2019-12-04
+leader: "Chaochih Liu - NOTE: Special day and time, Wednesday at 11:00 AM"
 paper_author: "Booker TR, Keightley PD"
 paper_year: "2018"
 paper_title: "Understanding the factors that shape patterns of nucleotide diversity in the house mouse genome"
