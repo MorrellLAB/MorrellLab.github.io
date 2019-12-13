@@ -6,5 +6,5 @@ paper_author: "Chan EKF, Timmermann A, Baldi BF, Moore AE, Lyons RJ, Lee S, Kals
 paper_year: "2019"
 paper_title: "Human origins in a southern African palaeo-wetland and first migrations"
 paper_journal: "Nature"
-paper_url: "https://genome.cshlp.org/content/19/5/711"
+paper_url: "https://www.nature.com/articles/s41586-019-1714-1"
 ---
