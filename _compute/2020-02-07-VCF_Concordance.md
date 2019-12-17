@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2020-01-XX
+meet_date: 2020-02-07
 topic: "VCF Concordance"
 leaders: "Group Discussion"
 ---

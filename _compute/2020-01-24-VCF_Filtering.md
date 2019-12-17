@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2019-12-20
+meet_date: 2020-01-24
 topic: "GATK's Variant Quality Score Recalibration (VQSR) and exploring VCF files with scikit-allel to identify VCF filtering criteria"
 leaders: "Group Discussion"
 ---
