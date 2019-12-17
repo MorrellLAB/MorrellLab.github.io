@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2019-12-27
+meet_date: 2019-12-20
 topic: "Winter Break. Happy holidays!"
 leaders: "No one"
 ---
