@@ -7,9 +7,11 @@ leaders: "Group Discussion"
 
 Please read the following documentation prior to the discussion:
 
-1. [How to filter variants either with VQSR or by hard-filtering](https://software.broadinstitute.org/gatk/documentation/article?id=23216)
-2. [Variant Quality Score Recalibration (VQSR)](https://gatkforums.broadinstitute.org/gatk/discussion/39/variant-quality-score-recalibration-vqsr/p1)
-3. [The variant calling section of Samtools workflows documentation](http://www.htslib.org/workflow/#mapping_to_variant)
+1. [VariantRecalibrator overview for GATK v4.1.2.0](https://gatk.broadinstitute.org/hc/en-us/articles/360036734411-VariantRecalibrator)
+2. [Variant Quality Score Recalibration (VQSR) and how it works (includes minimum number of samples required)](https://gatk.broadinstitute.org/hc/en-us/articles/360035531612-Variant-Quality-Score-Recalibration-VQSR-)
+3. [How to filter variants either with VQSR or by hard-filtering](https://software.broadinstitute.org/gatk/documentation/article?id=23216)
+4. [Variant Quality Score Recalibration (VQSR)](https://gatkforums.broadinstitute.org/gatk/discussion/39/variant-quality-score-recalibration-vqsr/p1)
+5. [The variant calling section of Samtools workflows documentation](http://www.htslib.org/workflow/#mapping_to_variant)
 
 If you are unfamiliar with scikit-allel, please spend a few minutes familiarizing yourself with the tool. Documentation is available here: https://scikit-allel.readthedocs.io/en/stable/. Specifically, the following tutorials are relevant:
 - Tutorial on filtering variants: http://alimanfoo.github.io/2018/04/09/selecting-variants.html
