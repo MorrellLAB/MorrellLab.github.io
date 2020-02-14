@@ -2,7 +2,7 @@
 num_citations: "40"
 dataset: "https://conservancy.umn.edu/handle/11299/181502"
 software_name: "BAD_Mutations"
-preprint: "http://biorxiv.org/content/early/2016/05/12/033175"
+preprint: "https://doi.org/10.1101/033175"
 paper_author: "Kono TJY, Fu F, Mohammadi M, Hoffman PJ, Liu C, Stupar RM, Smith KP, Tiffin P, Fay JC, Morrell PL"
 github: "https://github.com/MorrellLAB/BAD_Mutations"
 paper_journal: "Molecular Biology and Evolution 33: 1669-1678"

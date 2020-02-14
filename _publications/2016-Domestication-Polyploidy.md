@@ -6,6 +6,6 @@ paper_title: "Domestication: Polyploidy boosts domestication"
 citation_url: "http://scholar.google.com/scholar?cites=1419281949558036021&as_sdt=5,24&sciodt=0,24&hl=en"
 cluster: 1419281949558036021
 date: "2016-08-02"
-paper_url: "http://www.nature.com/articles/nplants2016116?WT.feed_name=subjects_genetics"
+paper_url: "https://doi.org/10.1038/nplants.2016.116"
 layout: default
 ---

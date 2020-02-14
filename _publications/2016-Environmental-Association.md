@@ -7,6 +7,6 @@ paper_title: "Environmental association analyses identify candidates for abiotic
 citation_url: "http://scholar.google.com/scholar?cites=4311343898944670349&as_sdt=5,24&sciodt=0,24&hl=en"
 cluster: 4311343898944670349
 date: "2016-01-22"
-paper_url: "http://www.g3journal.org/content/6/4/835.abstract"
+paper_url: "https://doi.org/10.1534/g3.116.026914"
 layout: default
 ---
