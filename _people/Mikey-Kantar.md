@@ -11,4 +11,4 @@ twitter:
 website: http://mbkantarlab.weebly.com/lab-members.html
 ---
 
-Mikey is interested in sunflower genomics. Currently an assistant professor at the University of Hawai'i at Manoa.
+Mikey is an assistant professor at the University of Hawai'i at Manoa.

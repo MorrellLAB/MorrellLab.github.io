@@ -11,4 +11,4 @@ website: https://sites.google.com/site/anamariagonzalesb/
 ---
 
 PhD Applied Plant Sciences 2015.
-Currently an agroinformatic analyst at the International Agroinformatics Alliance.
+Currently a Genetics Project Lead at Syngenta.

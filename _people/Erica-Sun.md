@@ -10,4 +10,4 @@ linkedin:
 twitter:
 ---
 
-Erica is a former undergraduate student studying genetics and animal science.
+Erica is an undergraduate student studying genetics and animal science.
