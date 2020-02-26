@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2020-03-23
+meet_date: 2020-03-02
 leader: "Peter Morrell"
 paper_author: "Bustos-Korts D, Dawson IK, Russell J, Tondelli A, Guerra D, Ferrandi C, Strozzi F, Nicolazzi EL, Molnar-Lang M, Ozkan H, Megyeri M, Miko P, Cakir E, Yakisir E, Trabanco N, Delbono S, Kyriakidis S, Booth A, Cammarano D, Mascher M, Werner P, Cattivelli L, Rossini L, Stein N, Kilian B, Waugh R, van Eeuwijk FA"
 paper_year: "2019"
