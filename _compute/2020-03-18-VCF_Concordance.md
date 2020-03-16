@@ -2,7 +2,7 @@
 layout: compute
 meet_date: 2020-03-18
 topic: "VCF Concordance"
-leaders: "Group Discussion"
+leaders: "Group Discussion - NOTE: Special meeting time, 2:00 PM"
 ---
 
 Please read the following documentation prior to the discussion:
