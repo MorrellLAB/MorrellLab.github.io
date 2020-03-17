@@ -1,7 +1,7 @@
 ---
 layout: meeting
-meet_date: 2020-03-16
-leader: "Chaochih Liu"
+meet_date: 2020-03-20
+leader: "Chaochih Liu - Note: Special day, Friday at 1:00 PM"
 paper_author: "Ma Y, Ding X, Qanbari S, Weigend S, Zhang Q, Simianer H"
 paper_year: "2015"
 paper_title: "Properties of different selection signature statistics and a new strategy for combining them"
