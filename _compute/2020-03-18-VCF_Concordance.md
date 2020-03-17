@@ -1,6 +1,7 @@
 ---
 layout: compute
 meet_date: 2020-03-18
+mspecial_time: 2:00 pm
 topic: "VCF Concordance"
 leaders: "Group Discussion"
 ---
