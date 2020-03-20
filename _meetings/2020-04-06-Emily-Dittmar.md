@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2020-04-13
+meet_date: 2020-04-06
 leader: "Emily Dittmar"
 paper_author: "Garud NR, Messer PW, Buzbas EO, Petrov DA"
 paper_year: "2015"
