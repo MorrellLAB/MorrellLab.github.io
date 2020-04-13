@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2020-04-20
+meet_date: 2020-05-11
 leader: "Peter Morrell"
 paper_author: "Chakraborty M, Emerson JJ, Macdonald SJ, Long AD"
 paper_year: "2019"
