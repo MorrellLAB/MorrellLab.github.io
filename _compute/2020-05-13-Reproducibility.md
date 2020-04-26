@@ -1,6 +1,6 @@
 ---
 layout: compute
-meet_date: 2020-05-06
+meet_date: 2020-05-13
 topic: "Code/methods does not always equal reproducibility"
 leaders: "Group Discussion"
 ---
