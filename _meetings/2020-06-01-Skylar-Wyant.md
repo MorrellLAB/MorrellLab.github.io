@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2020-05-25
+meet_date: 2020-06-01
 leader: "Skylar Wyant"
 paper_author: "Balick DJ, Do R, Cassa CA, Reich D, Sunyaev SR"
 paper_year: "2015"
