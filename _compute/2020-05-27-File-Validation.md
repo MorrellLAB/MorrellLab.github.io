@@ -10,3 +10,5 @@ This discussion will focus on commands/tools we can use to check and validate ou
 Please read the following prior to the discussion:
 
 - If you are not familiar with our pipeline, please skim through the main README page: [`sequence_handling`](https://github.com/MorrellLAB/sequence_handling).
+
+Slides from this discussion are available on the DoesNaughtCompute Github page [here](https://github.com/MorrellLAB/DoesNaughtCompute/blob/master/Past_sessions/DNC_Validating_Files.pdf).
