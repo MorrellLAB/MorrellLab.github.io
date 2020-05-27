@@ -9,8 +9,3 @@ citation_url: ""
 cluster:
 num_citations: "0"
 ---
-
-
-
-Graham N, Patil G, Bubeck DM, Dobert RC, Glenn KC, Gutsche AT, Kumar S, Lindbo JA, Maas L, May GD, Vega-Sanchez ME, Stupar RM, Morrell PL (2020) Plant genome editing and the relevance of off-target changes. Plant Physiology
-Plant Physiol pp.01194.2019. 10.1104/pp.19.01194.
