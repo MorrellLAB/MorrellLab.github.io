@@ -2,9 +2,9 @@
 layout: meeting
 meet_date: 2020-10-09
 leader: "Giulia Frascarelli"
-paper_author: "Groen SC, Calic I, Joly-Lopez Z, Platts AE, Choi JY, Natividad M, Dorph K, Mauck III WM, Bracken B, Cabral CLU, Kumar A, Torres RO, Satija R, Vergara G, Henry A, Franks SJ, Purugganan MD"
+paper_author: "Margaryan A, Lawson DJ, Sikora M, Racimo F, Rasmussen S, Moltke I, Cassidy L, Jorsboe E, Ingason A, Willerslev E, et al."
 paper_year: "2020"
-paper_title: "The strength and pattern of natural selection on gene expression in rice"
+paper_title: "Population genomics of the Viking world"
 paper_journal: "Nature"
-paper_url: "https://www.nature.com/articles/s41586-020-1997-2"
+paper_url: "https://www.nature.com/articles/s41586-020-2688-8"
 ---
