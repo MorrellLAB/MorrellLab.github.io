@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2020-10-23
+meet_date: 2020-10-30
 leader: "Skylar Wyant"
 paper_author: "Schmidt C, Fransz P, Ronspies M, Dreissig S, Fuchs J, Heckmann S, Houben A, Puchta H"
 paper_year: "2020"
