@@ -1,10 +1,10 @@
 ---
 layout: meeting
 meet_date: 2020-10-23
-leader: "Emily Dittmar"
-paper_author: "Groen SC, Calic I, Joly-Lopez Z, Platts AE, Choi JY, Natividad M, Dorph K, Mauck III WM, Bracken B, Cabral CLU, Kumar A, Torres RO, Satija R, Vergara G, Henry A, Franks SJ, Purugganan MD"
+leader: "Emily Dittmar (Note: Special meeting time, 11:30 AM)"
+paper_author: "Lei L, Goltsman EE, Goodstein D, Wu GA, Rokhsar D, Vogel JP"
 paper_year: "2020"
-paper_title: "The strength and pattern of natural selection on gene expression in rice"
-paper_journal: "Nature"
-paper_url: "https://www.nature.com/articles/s41586-020-1997-2"
+paper_title: "Plant pan-genomics comes of age"
+paper_journal: "Annual Review Plant Biology"
+paper_url: "Will be emailed out."
 ---
