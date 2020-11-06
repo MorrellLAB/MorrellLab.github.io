@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2020-11-20
+meet_date: 2020-12-04
 leader: "Giulia Frascarelli"
 paper_author: "Sandler G, Bartkowska M, Agrawal AF, Wright SI"
 paper_year: "2020"
