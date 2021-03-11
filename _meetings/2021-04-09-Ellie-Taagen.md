@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2021-04-02
-leader: "Peter Morrell"
+leader: "Ellie Taagen"
 paper_author: "Jay P, Chouteau M, Whibley A, Bastide H, Parrinello H, Llaurens V, Joron M"
 paper_year: "2021"
 paper_title: "Mutation load at a mimicry supergene sheds new light on the evolution of inversion polymorphisms"
