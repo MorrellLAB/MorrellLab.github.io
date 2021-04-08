@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2021-04-02
+meet_date: 2021-04-09
 leader: "Ellie Taagen"
 paper_author: "Jay P, Chouteau M, Whibley A, Bastide H, Parrinello H, Llaurens V, Joron M"
 paper_year: "2021"
