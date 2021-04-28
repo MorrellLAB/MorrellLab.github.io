@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2021-05-07
+meet_date: 2021-05-14
 leader: "Peter Morrell"
 paper_author: "Abasov R, Tvorogova VE, Glotov AS, Predeus AV, Barbitoff YA"
 paper_year: "2021"
