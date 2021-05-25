@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2021-06-04
+meet_date: 2021-06-11
 leader: "Emily Dittmar"
 paper_author: "DeWitt WS, Harris KD, Ragsdale AP, Harris K"
 paper_year: "2021"

@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2021-06-11
+meet_date: 2021-06-18
 leader: "Giulia Frascarelli"
 paper_author: "Lotterhos KE"
 paper_year: "2019"
