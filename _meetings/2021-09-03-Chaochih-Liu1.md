@@ -1,0 +1,10 @@
+---
+layout: meeting
+meet_date: 2021-09-03
+leader: "Chaochih Liu"
+paper_author: "Zhang C, Yang Z, Tang D, Zhu Y, Wang P, Li D, Zhu G, Xiong X, Shang Y, Li C, Huang S"
+paper_year: "2021"
+paper_title: "Genome design of hybrid potato"
+paper_journal: "Cell"
+paper_url: "https://doi.org/10.1016/j.cell.2021.06.006"
+---

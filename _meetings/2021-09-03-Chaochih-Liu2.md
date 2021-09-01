@@ -1,0 +1,10 @@
+---
+layout: meeting
+meet_date: 2021-09-03
+leader: "Chaochih Liu"
+paper_author: "Markel K, Shih PM"
+paper_year: "2021"
+paper_title: "From breeding to genome design: A genomic makeover for potatoes"
+paper_journal: "Cell"
+paper_url: "https://doi.org/10.1016/j.cell.2021.06.027"
+---
