@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2021-10-01
-leader: "Chaochih Liu"
+leader: "Giulia Frascarelli"
 paper_author: "Conover JL and Wendel JF"
 paper_year: "2021"
 paper_title: "Deleterious mutations accumulate faster in allopolyploid than diploid cotton (<i>Gossypium</i>) and unequally between subgenomes"
