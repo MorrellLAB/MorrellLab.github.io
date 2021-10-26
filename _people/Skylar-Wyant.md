@@ -6,7 +6,7 @@ end-date: 2019-08-30
 image: skylar.jpg
 google-scholar:
 github: https://github.com/Aerin13
-linkedin:
+linkedin: https://www.linkedin.com/in/skylar-wyant/
 twitter:
 ---
 
