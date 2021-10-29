@@ -6,8 +6,8 @@ end-date: 2019-05-15
 image: "emily_vonderharr.jpg"
 google-scholar:
 github: https://github.com/emilyvonderharr
-linkedin:
+linkedin: https://www.linkedin.com/in/emilyvonderharr/
 twitter:
 ---
 
-Emily is an undergraduate student studying Strategic Communication and French.
+Undergraduate student. Emily is now a "Creative" with Apple Inc.

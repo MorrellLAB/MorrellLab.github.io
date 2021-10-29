@@ -6,8 +6,8 @@ end-date: 2018-06-01
 image: "connor.jpg"
 google-scholar:
 github: https://github.com/Depies
-linkedin:
+linkedin: https://www.linkedin.com/in/connor-depies-634055135/
 twitter:
 ---
 
-Connor is an undergraduate student studying mathematics.
+Undergraduate student. Connor is a mathematics graduate student at Iowa State University.

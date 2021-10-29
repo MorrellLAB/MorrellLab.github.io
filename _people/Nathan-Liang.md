@@ -10,4 +10,4 @@ linkedin:
 twitter:
 ---
 
-Nathan is currently an undergraduate in the lab working on computational projects.
+Nathan is an undergraduate in the lab working on computational projects.

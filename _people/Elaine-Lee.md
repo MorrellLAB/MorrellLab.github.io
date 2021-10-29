@@ -10,4 +10,4 @@ linkedin: https://www.linkedin.com/in/vernalrain/
 twitter:
 ---
 
-Nadia has worked as an undergraduate student in the lab, including a lot of heavy lifting in the greenhouse and computational analysis. She completed a bachelor's degree in Environmental Science at University of Minnesota in May 2021.
+Elaine is a chemical engineering student with an interest in computing.
