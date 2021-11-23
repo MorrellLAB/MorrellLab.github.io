@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2021-11-29
-leader: "Li Lei"
+leader: "Giulia Frascarelli"
 paper_author: "Weinreich DM, Delaney NF, DePristo MA, Hartl DL"
 paper_year: "2006"
 paper_title: "Darwinian evolution can follow only very few mutational paths to fitter proteins"
