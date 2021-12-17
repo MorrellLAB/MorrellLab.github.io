@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2021-12-20
-leader: "TBD"
+leader: "Emily Dittmar"
 paper_author: "Wang et al."
 paper_year: "2021"
 paper_title: "Genomic conservation of citrus wild relatives"
