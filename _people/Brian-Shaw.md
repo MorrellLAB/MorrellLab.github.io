@@ -10,4 +10,4 @@ linkedin: https://www.linkedin.com/in/brian-shaw-68260888/
 twitter:
 ---
 
-Brian is an undergraduate student studying Genetics, Cellular Biology, and Development (GCD).
+Brian is an undergraduate student studying Genetics, Cellular Biology, and Development (GCD). He is completing a master's degree in Education and is currently a science teacher at Hope Community Academy in St. Paul, Minnesota.
