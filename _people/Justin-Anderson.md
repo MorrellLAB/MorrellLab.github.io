@@ -10,4 +10,4 @@ linkedin: https://www.linkedin.com/profile/view?id=321718866&authType=NAME_SEARC
 twitter:
 ---
 
-Justin is interested in soybean genomics. Currently a postdoctoral researcher at Ruhr-Universität Bochum.
+Justin is a senior scientist in statistics and data science with BASF based in the Netherlands.
