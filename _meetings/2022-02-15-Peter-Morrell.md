@@ -1,0 +1,10 @@
+---
+layout: meeting
+meet_date: 2022-02-15
+leader: "Peter Morrell"
+paper_author: "Monroe JG, Srikant T, Carbonell-Bejerano P, Becker C, Lensink M, Exposito-Alonso M, Klein M, Hildebrandt J, Neumann M, Kliebenstein D, Weng M, Imbert E, Ågren J, Rutter MT, Fenster CG, Weigel D"
+paper_year: "2022"
+paper_title: "Mutation bias reflects natural selection in <i>Arabidopsis thaliana</i>"
+paper_journal: "Nature"
+paper_url: "https://www.nature.com/articles/s41586-021-04269-6"
+---
