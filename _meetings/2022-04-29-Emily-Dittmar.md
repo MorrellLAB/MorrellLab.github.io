@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2022-04-29
-leader: "Emily Dittmar"
+leader: "Emily Dittmar - Note: Special time, 1:30 pm CT"
 paper_author: "Rosenberg NA, Mahajan S, Ramachandran S, Zhao C, Pritchard JK, Feldman MW"
 paper_year: "2005"
 paper_title: "Clines, clusters, and the effect of study design on the inference of human population structure"
