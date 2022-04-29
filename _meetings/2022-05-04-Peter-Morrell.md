@@ -1,7 +1,7 @@
 ---
 layout: meeting
-meet_date: 2022-05-06
-leader: "Peter Morrell"
+meet_date: 2022-05-04
+leader: "Peter Morrell - Note: Special day, Wed at 9:30 am CT"
 paper_author: "Rosenberg NA, Li LM, Ward R, Pritchard JK"
 paper_year: "2003"
 paper_title: "Informativeness of genetic markers for inference of ancestry"
