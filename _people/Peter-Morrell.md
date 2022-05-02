@@ -10,4 +10,4 @@ linkedin: "https://www.linkedin.com/in/peter-morrell-37904a5"
 twitter: "https://twitter.com/PeterLMorrell"
 ---
 
-Peter Morrell is an Associate Professor at the University of Minnesota, Department of Agronomy and Plant Genetics. 
+Peter Morrell is a Professor at the University of Minnesota, Department of Agronomy and Plant Genetics. 
