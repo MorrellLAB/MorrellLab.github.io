@@ -2,9 +2,9 @@
 layout: meeting
 meet_date: 2022-07-01
 leader: "Skylar Wyant"
-paper_author: "Goel M, Sun H, Jiao WB, Schneeberger K"
-paper_year: "2019"
-paper_title: "SyRI: finding genomic rearrangements and local sequence differences from whole-genome assemblies"
-paper_journal: "Genome Biol"
-paper_url: "https://doi.org/10.1186/s13059-019-1911-0"
+paper_author: "Zhong L, Zhu Y, Olsen KM"
+paper_year: "2022"
+paper_title: "Hard versus soft selective sweeps during domestication and improvement in soybean"
+paper_journal: "Mol Ecol"
+paper_url: "https://doi.org/10.1111/mec.16454"
 ---
