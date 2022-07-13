@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2022-07-01
-leader: "Skylar Wyant"
+leader: "Peter Morrell"
 paper_author: "Zhong L, Zhu Y, Olsen KM"
 paper_year: "2022"
 paper_title: "Hard versus soft selective sweeps during domestication and improvement in soybean"
