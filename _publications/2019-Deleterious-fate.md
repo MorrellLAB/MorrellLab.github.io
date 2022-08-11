@@ -8,7 +8,7 @@ paper_url: "https://doi.org/10.1534/genetics.119.302733"
 preprint: "https://doi.org/10.1101/442020"
 dataset: "https://morrelllab.github.io/datasets/index.html"
 github: "https://github.com/MorrellLAB/Deleterious_GP"
-#citation_url: ""
-#cluster: 
-#num_citations: "1"
+citation_url: "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2352308133433188717,16821975963602970109&as_sdt=5"
+cluster: 2352308133433188717
+num_citations: "1"
 ---
