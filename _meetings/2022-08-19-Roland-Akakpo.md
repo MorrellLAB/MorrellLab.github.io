@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2022-08-19
+meet_date: 2022-09-02
 leader: "Roland Akakop"
 paper_author: "Tittes S, Lorant A, McGinty S, Doebley JF, Holland JB, Sánchez-González JDJ, Seetharam A, Tenaillon M, Ross-Ibarra J"
 paper_year: "2021"
