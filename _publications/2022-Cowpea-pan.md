@@ -12,4 +12,3 @@ citation_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&
 cluster: 8279572746603007353
 num_citations: ""
 ---
-Liang Q, Muñoz-Amatriaín M, Shu S, Lo S, Wu X, Carlson JW, Davidson P, Goodstein DM, Phillips J, Janis NM, Lee EJ, Liang C, Morrell PL, Farmer AD, Xu P, Close TJ, Lonardi S (2022) A view of the pan-genome of domesticated cowpea (Vigna unguiculata [L.] Walp.). bioRxiv
