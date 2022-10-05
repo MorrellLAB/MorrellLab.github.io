@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2022-09-30
+meet_date: 2022-10-07
 leader: "Roland Akakpo"
 paper_author: "Garrison E, Kronenberg ZN, Dawson ET, Pedersen BS, Prins P"
 paper_year: "2022"
