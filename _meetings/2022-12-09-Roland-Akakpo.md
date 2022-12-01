@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2018-12-09
+meet_date: 2022-12-09
 leader: "Rolanda Akakpo"
 paper_author: "Woods P, Price N, Matthews P, McKay JK"
 paper_year: "2022"
