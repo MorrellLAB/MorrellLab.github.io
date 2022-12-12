@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2022-12-23
-leader: "Peter Morrell" - Note: Special time, Friday 1:00 pm
+leader: "Peter Morrell"
 paper_author: "Cleal K, Baird DM"
 paper_year: "2022"
 paper_title: "Dysgu: efficient structural variant calling using short or long reads"
