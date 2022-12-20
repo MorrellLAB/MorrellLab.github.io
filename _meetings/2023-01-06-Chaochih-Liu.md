@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2023-01-16
+meet_date: 2023-01-06
 leader: "Chaochih Liu"
 paper_author: "Knudsen S, Wendt T, Dockter C, Thomsen HC, Rasmussen M, Egevang Jørgensen M, Lu Q, Voss C, Murozuka E, Østerberg JT, Harholt J, Braumann I, Cuesta-Seijo JA, Kale SM, Bodevin S, Tang Petersen L, Carciofi M, Pedas PR, Opstrup Husum J, Nielsen MTS, Nielsen K, Jensen MK, Møller LA, Gojkovic Z, Striebeck A, Lengeler K, Fennessy RT, Katz M, Garcia Sanchez R, Solodovnikova N, Förster J, Olsen O, Møller BL, Fincher GB, Skadhauge B"
 paper_year: "2022"
