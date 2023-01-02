@@ -1,5 +1,5 @@
 ---
-name: "Peter Morrell"
+name: "Derell Scott"
 rank: undergraduate student
 start-date: 2021-10-19
 end-date: Present
@@ -10,4 +10,4 @@ linkedin: ""
 twitter: ""
 ---
 
-Derell Scott is an undergraduate student primarily involved in biocomputing tasks. 
+Derell Scott is an undergraduate student primarily involved in biocomputing tasks.
