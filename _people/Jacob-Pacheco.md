@@ -10,4 +10,4 @@ linkedin: ""
 twitter: ""
 ---
 
-Jacob Pacheco is an undergraduate student primarily involved in biocomputing tasks. 
+Jacob Pacheco is an undergraduate student primarily involved in biocomputing tasks.
