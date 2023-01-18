@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2023-01-17
+meet_date: 2023-01-20
 leader: "Peter Morrell"
 paper_author: "Roach MJ, Pierce-Ward NT, Suchecki R, Mallawaarachchi V, Papudeshi B, Handley SA, Brown CT, Watson-Haigh NS, Edwards RA"
 paper_year: "2022"
