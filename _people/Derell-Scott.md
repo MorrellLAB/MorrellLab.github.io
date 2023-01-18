@@ -1,6 +1,6 @@
 ---
 name: "Derell Scott"
-rank: undergraduate student
+rank: undergraduate
 start-date: 2021-10-19
 end-date: Present
 image: "derell.jpg"

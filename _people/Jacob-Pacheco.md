@@ -1,6 +1,6 @@
 ---
 name: "Jacob Pacheco"
-rank: undergraduate student
+rank: undergraduate
 start-date: 2022-11-23
 end-date: Present
 image: "jacob.jpg"
