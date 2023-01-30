@@ -1,6 +1,6 @@
----
+ ---
 layout: meeting
-meet_date: 2023-01-27
+meet_date: 2023-02-03
 leader: "Rolanda Akakpo"
 paper_author: "Liu C, Frascarelli G, Stec AO, Heinen S, Lei L, Wyant SR, Legg E, Spiller M et al."
 paper_year: "2023"
