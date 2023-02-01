@@ -1,4 +1,4 @@
- ---
+---
 layout: meeting
 meet_date: 2023-02-03
 leader: "Rolanda Akakpo"
