@@ -1,7 +1,7 @@
 ---
 layout: meeting
-meet_date: 2023-02-17
-leader: "Chaochih Liu"
+meet_date: 2023-02-10
+leader: "Roland Akakpo"
 paper_author: "Guo Y, Himmelbach A, Weiss E, Stein N, Mascher M"
 paper_year: "2022"
 paper_title: "Six-rowed wild-growing barleys are hybrids of diverse origins"
