@@ -9,6 +9,7 @@ num_citations: "13"
 paper_journal: "G3 6: 609-622"
 paper_url: "http://www.g3journal.org/content/early/2015/12/28/g3.115.024349.abstract"
 preprint: "http://biorxiv.org/content/early/2015/09/11/026625"
+github: "https://github.com/MorrellLAB/NorthAmerica_Fst"
 cluster: 8363220939686393422
 date: "2015-12-25"
 ---
