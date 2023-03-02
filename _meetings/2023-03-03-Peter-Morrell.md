@@ -2,9 +2,9 @@
 layout: meeting
 meet_date: 2023-03-03
 leader: "Peter Morrell"
-paper_author: "Salter-Townshend M, Myers S"
-paper_year: "2019"
-paper_title: "Fine-scale inference of ancestry segments without prior knowledge of admixing groups"
-paper_journal: "Genetics 212: 869-889"
-paper_url: "https://doi.org/10.1534/genetics.119.302139"
+paper_author: "Browning SR, Waples RK, Browning BL"
+paper_year: "2023"
+paper_title: "Fast, accurate local ancestry inference with FLAREs"
+paper_journal: "The American Journal of Human Genetics"
+paper_url: "https://doi.org/10.1016/j.ajhg.2022.12.010"
 ---
