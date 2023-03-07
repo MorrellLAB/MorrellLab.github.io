@@ -2,7 +2,7 @@
 paper_title: "The effects of both recent and long-term selection and genetic drift are readily evident in North American barley breeding populations"
 citation_url: "http://scholar.google.com/scholar?cites=8363220939686393422&as_sdt=5,24&sciodt=0,24&hl=en"
 layout: default
-dataset: "https://triticeaetoolbox.org/barley/map_flapjack.php?function=typeMapOut&msid=15"
+dataset: "https://barley.triticeaetoolbox.org"
 spanish: "thing"
 paper_author: "Poets AM, Mohammadi M, Seth K, Wang H, Kono TJY, Fang Z, Muehlbauer GJ, Smith KP, Morrell PL"
 num_citations: "13"
