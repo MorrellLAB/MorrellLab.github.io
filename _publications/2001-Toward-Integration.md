@@ -5,7 +5,7 @@ layout: default
 paper_author: "Draye X, Lin YR, Qian XY, Bowers JE, Burow GB et al."
 num_citations: "108"
 paper_journal: "Plant Physiology 125: 1325-1341"
-paper_url: "http://www.plantphysiol.org/cgi/content/abstract/125/3/1325"
+paper_url: "https://doi.org/10.1104/pp.125.3.1325"
 cluster: 16720634043671981902
 date: "2001-03-01"
 ---
