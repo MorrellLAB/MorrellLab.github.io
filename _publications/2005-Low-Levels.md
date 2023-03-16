@@ -4,9 +4,9 @@ citation_url: "http://scholar.google.com/scholar?cites=8671999361669387957&as_sd
 layout: default
 dataset: "../datasets/index.html"
 paper_author: "Morrell PL, Toleno DM, Lundy KE, Clegg MT"
-num_citations: "197"
+num_citations: "231"
 paper_journal: "Proceedings of the National Academy of Sciences of the United States of America 102: 2442-2447"
-paper_url: "http://www.pnas.org/content/102/7/2442.abstract"
+paper_url: "https://doi.org/10.1073/pnas.0409804102"
 cluster: 8671999361669387957
 date: "2005-02-15"
 ---
