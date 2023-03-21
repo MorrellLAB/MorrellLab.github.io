@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2023-03-22
-leader: "Giulia Frascarelli - Note: Special date & time, Wednesday 9:00 am CT"
+leader: "Giulia Frascarelli - Note: Special date & time, Wednesday 10:00 am CT"
 paper_author: "Li H, Ralph P"
 paper_year: "2019"
 paper_title: "Local PCA shows how the effect of population structure differs along the genome"
