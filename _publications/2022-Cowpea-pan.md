@@ -8,7 +8,7 @@ paper_url: "https://doi.org/10.1002/tpg2.20319"
 preprint: "https://doi.org/10.1101/2022.08.22.504811"
 dataset: ""
 github: "https://github.com/MorrellLAB/Cowpea_Pangenome"
-citation_url: ""
-cluster:
+citation_url: "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8590709510412745665"
+cluster: 8590709510412745665
 num_citations: "2"
 ---
