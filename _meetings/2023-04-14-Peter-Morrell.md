@@ -1,10 +1,10 @@
 ---
 layout: meeting
-meet_date: 2023-04-14
+meet_date: 2023-04-07
 leader: "Peter Morrell"
-paper_author: "Chakraborty S, Rannala B"
-paper_year: "2023"
-paper_title: "An efficient exact algorithm for identifying hybrids using population genomic sequences"
-paper_journal: "Genetics 223: iyad011"
-paper_url: "https://doi.org/10.1093/genetics/iyad011"
+paper_author: "Hudson RR, Kreitman M, Aguade M"
+paper_year: 1987
+paper_title: "A test of neutral molecular evolution based on nucleotide data"
+paper_journal: "Genetics 116: 153-159"
+paper_url: "http://www.genetics.org/cgi/content/short/116/1/153"
 ---
