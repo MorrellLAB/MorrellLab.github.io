@@ -6,5 +6,5 @@ paper_author: "Li H, Berent E, Hadjipanteli S, Galey M, Muhammad-Lahbabi N, Mill
 paper_year: "2023"
 paper_title: "Heterozygous inversion breakpoints suppress meiotic crossovers by altering recombination repair outcomes"
 paper_journal: "PLoS Genet 19: e1010702"
-paper_url: "10.1371/journal.pgen.1010702"
+paper_url: "https://doi.org/10.1371/journal.pgen.1010702"
 ---
