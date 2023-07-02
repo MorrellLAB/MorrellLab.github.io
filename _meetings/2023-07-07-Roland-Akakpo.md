@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2023-06-30
+meet_date: 2023-07-07
 leader: "Roland Akakpo"
 paper_author: "Li JH, Findley K, Pickrell JK, Blease K, Zhao J, Kruglyak S"
 paper_year: "2022"
