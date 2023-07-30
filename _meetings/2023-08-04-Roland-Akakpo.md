@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2023-07-29
+meet_date: 2023-08-04
 leader: "Roland Akakpo"
 paper_author: "Lotterhos KE"
 paper_year: "2023"
