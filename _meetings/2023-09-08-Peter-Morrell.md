@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2023-09-01
+meet_date: 2023-09-08
 leader: "Peter Morrell"
 paper_author: "Schaal SM, Haller BC, Lotterhos KE"
 paper_year: "2022"
