@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2023-11-17
+meet_date: 2023-12-01
 leader: "Peter Morrell"
 paper_author: "Risch N, Merikangas K"
 paper_year: "1996"
