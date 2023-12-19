@@ -10,5 +10,5 @@ dataset: "https://zenodo.org/record/3236786#.ZC3qay_MKAl"
 github: "https://github.com/MorrellLAB/Cowpea_Pangenome"
 citation_url: ""
 cluster:
-num_citations: "0"
+num_citations: "7 "
 ---

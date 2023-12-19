@@ -10,5 +10,5 @@ dataset: "https://doi.org/10.13020/0s9b-p605"
 github: "https://github.com/MorrellLAB/Context_Variants_Soy"
 citation_url: "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8279572746603007353&as_sdt=5"
 cluster: 8279572746603007353
-num_citations: "1"
+num_citations: "9"
 ---
