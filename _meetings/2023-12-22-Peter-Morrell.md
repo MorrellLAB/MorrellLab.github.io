@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2023-12-15
+meet_date: 2023-12-22
 leader: "Peter Morrell"
 paper_author: "Liu C, Frascarelli G, Stec A, Heinen S, Lei L, Wyant SR, Legg E, Spiller M, Muehlbauer GJ, Smith KP, Fay JC, Morrell PL"
 paper_year: "2023"
