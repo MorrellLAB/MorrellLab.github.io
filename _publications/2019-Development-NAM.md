@@ -9,5 +9,5 @@ dataset: "https://doi.org/10.13020/c5kj-af95"
 github: "https://github.com/UMN-BarleyOatSilphium/BRIDG6"
 citation_url: "http://scholar.google.com/scholar?cites=768545075598730558&as_sdt=5,24&sciodt=0,24&hl=en"
 cluster: 768545075598730558
-num_citations: "1"
+num_citations: "23"
 ---
