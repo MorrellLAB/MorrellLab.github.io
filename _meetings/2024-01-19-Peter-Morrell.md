@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2024-01-19
-leader: "Roland Akakpo"
+leader: "Peter Morrell"
 paper_author: "Capblancq T, Forester BR"
 paper_year: "2021"
 paper_title: "Redundancy analysis: A Swiss Army Knife for landscape genomics"
