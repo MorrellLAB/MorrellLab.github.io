@@ -8,7 +8,7 @@ paper_url: "https://doi.org/10.1371/journal.pbio.3002235"
 #preprint: "https://doi.org/10.31219/osf.io/pk8uy"
 #dataset: ""
 #github: ""
-citation_url: ""
+citation_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GnCbOj4AAAAJ&sortby=pubdate&citation_for_view=GnCbOj4AAAAJ:8AbLer7MMksC"
 cluster:
-num_citations: "2"
+num_citations: "4"
 ---
