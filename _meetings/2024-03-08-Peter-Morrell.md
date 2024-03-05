@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2024-03-08
-leader: "Lei Li"
+leader: "Peter Morrell"
 paper_author: "Kreiner JM, Hnatovska S, Stinchcombe JR, Wright SI"
 paper_year: "2023"
 paper_title: "Quantifying the role of genome size and repeat content in adaptive variation and the architecture of flowering time in Amaranthus tuberculatus"
