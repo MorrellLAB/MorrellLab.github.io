@@ -5,11 +5,11 @@ date: "2023-11-23"
 paper_title: "Adaptive gene loss in the common bean pan-genome during range expansion and domestication"
 paper_journal: "bioRxiv"
 #paper_url: ""
-preprint: "https://doi.org/10.1101/2023.11.23.568464.abstract"
+preprint: "https://doi.org/10.1101/2023.11.23.568464"
 #dataset: ""
-github: ""
-citation_url: ""
-cluster:
-num_citations: "0"
+#github: ""
+#citation_url: ""
+#cluster:
+#num_citations: "0"
 ---
 
