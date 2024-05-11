@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2024-05-10
+meet_date: 2024-05-17
 leader: "Peter Morrell"
 paper_author: "Rivas-González I, Schierup MH, Wakeley J, Hobolth A"
 paper_year: "2024"
