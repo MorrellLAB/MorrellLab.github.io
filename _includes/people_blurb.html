@@ -77,6 +77,12 @@
                 {% if include.twitter %} <!-- Twitter? -->
                     <a href="{{ include.twitter }}" rel="external"><span class="name">Twitter</span></a>
                 {% endif %}
+                {% if include.bluesky %} <!-- Bluesky? -->
+                    <a href="{{ include.bluesky }}" rel="external"><span class="name">Bluesky</span></a>
+                {% endif %}
+                {% if include.twitter %} <!-- ORCiD? -->
+                    <a href="{{ include.orcid }}" rel="external"><span class="name">ORCiD</span></a>
+                {% endif %}
                 <span class="post-date">{{ start_year }} &mdash; {{ include.end }}</span> <!-- Dates worked -->
                 <span class="post-content">{{ include.content }}</span><!--The blurb-->
             {% endif %} <!-- End checking rank vs header -->
