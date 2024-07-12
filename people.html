@@ -30,7 +30,7 @@ permalink: /people/
             {% endcase %}
             {% for post in site.people %} <!-- For each post, the include takes care of figuring out who gets put with which header -->
                 <!--Use the include to take care of formatting-->
-                {% include people_blurb.html name=post.name start=post.start-date end=post.end-date image=post.image content=post.content github=post.github google-scholar=post.google-scholar linkedin=post.linkedin twitter=post.twitter website=post.website this=rank rank=post.rank %}
+                {% include people_blurb.html name=post.name start=post.start-date end=post.end-date image=post.image content=post.content github=post.github google-scholar=post.google-scholar linkedin=post.linkedin twitter=post.twitter bluesky=post.bluesky orcid=post.orcid website=post.website this=rank rank=post.rank %}
             {% endfor %}
             </div> <!-- End the container for each rank -->
         {% endfor %}

@@ -11,10 +11,10 @@
                 {% else %} <!-- More than a year in the lab -->
                     {{ start_year }} &mdash; {{ end_year }}
                 {% endif %}
-                {% if include.website or include.google-scholar or include.github or include.linkedin or include.twitter %}, {% endif %}
+                {% if include.website or include.google-scholar or include.github or include.linkedin or include.twitter or include.bluesky or include.orcid %}, {% endif %}
                 {% if include.website %} <!-- Do we have a website? -->
                     <a href="{{ include.website }}" rel="external"><span class="name">Website</span></a>
-                    {% if include.google-scholar or include.github or include.linkedin or include.twitter %} | {% endif %}
+                    {% if include.google-scholar or include.github or include.linkedin or include.twitter or include.bluesky or include.orcid %} | {% endif %}
                 {% endif %}
                 {% if include.google-scholar %} <!-- Google Scholar page? -->
                     <a href="{{ include.google-scholar }}" rel="external"><span class="name">Google Scholar</span></a>
@@ -30,6 +30,12 @@
                 {% endif %}
                 {% if include.twitter %} <!-- Twitter? -->
                     <a href="{{ include.twitter }}" rel="external"><span class="name">Twitter</span></a>
+                {% endif %}
+                {% if include.bluesky %} <!-- Bluesky? -->
+                    <a href="{{ include.bluesky }}" rel="external"><span class="name">Bluesky</span></a>
+                {% endif %}
+                {% if include.twitter %} <!-- ORCiD? -->
+                    <a href="{{ include.orcid }}" rel="external"><span class="name">ORCiD</span></a>
                 {% endif %}
                 {% case include.rank %}
                     {% when 'undergraduate' %} <!-- Undergraduates get called 'undergraduates' -->
