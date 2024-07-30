@@ -4,7 +4,7 @@ paper_author: "Liu C, Frascarelli G, Stec AO, Heinen S, Lei L, Wyant SR, Legg E,
 date: "2024-05-06"
 paper_title: "Sodium azide mutagenesis induces a unique pattern of mutations"
 paper_journal: "bioRxiv 2024.05. 06.59206"
-#paper_url: ""
+paper_url: "https://doi.org/10.1101/2024.05.06.592067"
 preprint: "https://doi.org/10.1101/2024.05.06.592067"
 #dataset: ""
 github: "https://github.com/MorrellLAB/Barley_Mutated"
