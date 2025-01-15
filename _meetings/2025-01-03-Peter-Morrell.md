@@ -1,7 +1,7 @@
 ---
 layout: meeting
-meet_date: 2024-12-27
-leader: "Li Lei"
+meet_date: 2024-01-05
+leader: "Peter Morrell"
 paper_author: "Bourque G, Burns KH, Gehring M, Gorbunova V, Seluanov A, Hammell M, Imbeault M, Izsvák Z, Levin HL, Macfarlan TS, Mager DL, Feschotte C."
 paper_year: "2018"
 paper_title: "Ten things you should know about transposable elements."
