@@ -2,7 +2,7 @@
 layout: meeting
 meet_date: 2025-01-31
 leader: "Roland Akakpo"
-paper_author: "Liu C, Arge LWP, Lorenz AJ, Xu S, Fay JC, Smith KP, Morrell PL"
+paper_author: "Liu C, Arge LWP, Lee, EJ, Ramasubramanian V, Lorenz AJ, Xu S, Fay JC, Smith KP, Morrell PL"
 paper_year: "2025"
 paper_title: "Crossover rate estimation"
 paper_journal: "In preparation"
