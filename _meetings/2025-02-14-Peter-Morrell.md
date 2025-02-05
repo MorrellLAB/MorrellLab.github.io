@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2025-02-14
-leader: "Luis Arge"
+leader: "Peter Morrell"
 paper_author: "Ogbunugafor CB, Edge MD"
 paper_year: "2022"
 paper_title: "Gattaca as a lens on contemporary genetics: marking 25 years into the film’s “not-too-distant” future"
