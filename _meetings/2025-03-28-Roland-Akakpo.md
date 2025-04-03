@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2025-03-28
-leader: "Roland Akakpo"
+leader: "Peter Morrell"
 paper_author: "Jayakodi et al."
 paper_year: "2024"
 paper_title: "Structural variation in the pangenome of wild and domesticated barley"
