@@ -41,7 +41,7 @@ def parse_yaml(document):
     """Read a yaml document and return a dictionary with the name of the yaml document and dictionary of contents"""
     try:
         assert isinstance(document, str)
-        this_yaml = (document, yaml.load_all(open('_publications/' + document, 'r')).__next__())
+        this_yaml = (document, yaml.load_all(open('_publications/' + document, 'r'), Loader=yaml.SafeLoader).__next__())
         return this_yaml
     except AssertionError:
         raise
@@ -77,7 +77,7 @@ def main():
     #   Get a list of publications
     print("Finding all publications", file=sys.stderr)
     publication_list = os.listdir('_publications')
-    #   Read that sh!t in
+    #   Read in publications
     print("Reading in the publications", file=sys.stderr)
     yaml_list = map(parse_yaml, publication_list)
     #   For every document in our list of yaml dictionaries

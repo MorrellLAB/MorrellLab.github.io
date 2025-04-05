@@ -8,7 +8,7 @@ paper_url: "https://doi.org/10.1534/g3.119.400401"
 preprint: "https://doi.org/10.1101/405399"
 dataset: "https://doi.org/10.13020/adqb-bb41"
 github: "https://github.com/MorrellLAB/Env_Assoc"
-citation_url: "https://scholar.google.com/scholar?cites=2352308133433188717&as_sdt=5,24&sciodt=0,24&hl=en"
+citation_url: "http://scholar.google.com/scholar?cites=2352308133433188717&as_sdt=5,24&sciodt=0,24&hl=en"
 cluster: 2352308133433188717
-num_citations: "18"
+num_citations: "25"
 ---

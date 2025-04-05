@@ -1,5 +1,5 @@
 ---
-num_citations: "8"
+num_citations: "21"
 software_name: "ANGSD-wrapper"
 preprint: "https://doi.org/10.7287/peerj.preprints.1472v2"
 paper_author: "Durvasula A, Hoffman PJ, Kent TV, Liu C, Kono TJY, Morrell PL, Ross-Ibarra J"
