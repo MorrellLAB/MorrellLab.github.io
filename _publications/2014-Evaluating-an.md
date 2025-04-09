@@ -5,7 +5,7 @@ layout: default
 paper_author: "Kantar MB, Betts K, Michno J-MS, Luby JJ, Morrell PL, Hulke BS, Stupar RM, Wyse DL"
 num_citations: "41"
 paper_journal: "Field Crops Research 155: 254-264"
-paper_url: "http://www.sciencedirect.com/science/article/pii/S0378429013001433"
+paper_url: "https://doi.org/10.1016/j.fcr.2013.04.018"
 cluster: 2961327733153455598
 date: "2014-01-02"
 ---
