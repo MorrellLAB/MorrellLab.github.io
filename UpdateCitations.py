@@ -19,6 +19,8 @@ except ImportError as error:
     sys.exit("FAIL: Can't find " + error.name)
 
 #   A function to use scholar.py to send a query and get information about citations
+
+
 def send_query(cluster):
     """Send a query to Google Scholar and get number of citations and citation url"""
     try:
