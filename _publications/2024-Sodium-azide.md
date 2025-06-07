@@ -1,12 +1,12 @@
 ---
 layout: default
 paper_author: "Liu C, Frascarelli G, Stec AO, Heinen S, Lei L, Wyant SR, Legg E, Spiller M, Muehlbauer GJ, Smith KP"
-date: "2024-05-06"
+date: "2025-06-03"
 paper_title: "Sodium azide mutagenesis induces a unique pattern of mutations"
-paper_journal: "bioRxiv 2024.05. 06.59206"
-paper_url: "https://doi.org/10.1101/2024.05.06.592067"
+paper_journal: "PLOS Genetics"
+paper_url: "https://doi.org/10.1371/journal.pgen.1011634"
 preprint: "https://doi.org/10.1101/2024.05.06.592067"
-#dataset: ""
+dataset: "https://doi.org/10.13020/sewd-qq35"
 github: "https://github.com/MorrellLAB/Barley_Mutated"
 citation_url: ""
 cluster:
