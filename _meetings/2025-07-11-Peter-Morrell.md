@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2025-07-11
+meet_date: 2025-07-15 - Note special date
 leader: "Peter Morrell"
 paper_author: "Flagel L, Brandvain Y, Schrider DR "
 paper_year: "2019"
