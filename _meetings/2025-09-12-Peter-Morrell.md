@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2025-09-12
+meet_date: 2025-09-12 - Note Special Time - 12:00 pm
 leader: "Peter Morrell"
 paper_author: "Borinskaya SA, Ermolaev AI, Kolchinsky EI"
 paper_year: "2019"
