@@ -8,4 +8,3 @@ paper_title: "A general and efficient representation of ancestral recombination 
 paper_journal: "Genetics 228: iyae100"
 paper_url: "https://doi.org/10.1093/genetics/iyae100"
 ---
-
