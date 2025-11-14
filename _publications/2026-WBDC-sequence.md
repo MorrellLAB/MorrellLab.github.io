@@ -1,10 +1,10 @@
 ---
 layout: default
 paper_author: "Spanner R, Sallam AH, Guo Y, Jayakodi M, Himmelbach A, Fiebig A, Simmons J, et al."
-date: "2025-10-04"
+date: "2025-11-08"
 paper_title: "Whole-genome sequencing of the Wild Barley Diversity Collection: a resource for identifying and exploiting genetic variation for cultivated barley improvement"
 paper_journal: "G3: Genes, Genomes, Genetics"
-#paper_url: ""
+#paper_url: "https://doi.org/10.1093/g3journal/jkaf261"
 preprint: "https://doi.org/10.1101/2024.11.18.624148"
 #dataset: ""
 github: "https://github.com/SteffensonLab"
