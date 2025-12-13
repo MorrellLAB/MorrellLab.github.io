@@ -1,6 +1,6 @@
 ---
 layout: default
-paper_author: "Liu C, Frascarelli G, Stec AO, Heinen S, Lei L, Wyant SR, Legg E, Spiller M, Muehlbauer GJ, Smith KP"
+paper_author: "Liu C, Frascarelli G, Stec AO, Heinen S, Lei L, Wyant SR, Legg E, Spiller M, Muehlbauer GJ, Smith KP, Morrell PL"
 date: "2025-06-03"
 paper_title: "Sodium azide mutagenesis induces a unique pattern of mutations"
 paper_journal: "PLOS Genetics 21(6) e1011634"

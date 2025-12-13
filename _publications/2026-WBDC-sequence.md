@@ -10,7 +10,7 @@ dataset: "https://graingenes.org/snpversity/"
 github: "https://github.com/SteffensonLab"
 citation_url: "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12285590030636207222"
 cluster: "12285590030636207222"
-num_citations: "0"
+num_citations: "2"
 ---
 
 
