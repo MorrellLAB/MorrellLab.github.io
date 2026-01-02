@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2026-01-02
+meet_date: 2026-01-09
 leader: "Alex Skallas"
 paper_author: "Barghi N, Hermisson J, Schlötterer C"
 paper_year: "2020"
