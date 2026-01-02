@@ -1,0 +1,10 @@
+---
+layout: meeting
+meet_date: 2026-01-16
+leader: "Prakriti Adhikari"
+paper_author: "Bitarello BD, Brandt DYC, Meyer D, Andrés AM"
+paper_year: "2023"
+paper_title: "Inferring balancing selection from genome-scale data"
+paper_journal: "Genome Biol Evol, 15, evad032"
+#paper_url: "https://doi.org/10.1093/gbe/evad032"
+---
