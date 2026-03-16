@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2026-03-13
-leader: "Jacob Pacheco"
+leader: "Peter Morrell"
 paper_author: "Song B, Buckler ES, Stitzer MC"
 paper_year: "2024"
 paper_title: "New whole-genome alignment tools are needed for tapping into plant diversity"
