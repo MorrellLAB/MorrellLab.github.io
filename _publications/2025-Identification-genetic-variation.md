@@ -6,6 +6,7 @@ paper_title: "Identification of genetic variation associated with high-temperatu
 paper_journal: "Molecular Ecology"
 preprint: "https://doi.org/10.1101/2025.04.09.647789"
 github: "https://github.com/MorrellLAB/cowpea_environmental"
+dataset: "https://doi.org/10.13020/XXPS-Q694"
 #paper_url: ""
 #citation_url: ""
 #cluster: 
