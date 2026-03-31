@@ -18,23 +18,25 @@
                 {% endif %}
                 {% if include.google-scholar %} <!-- Google Scholar page? -->
                     <a href="{{ include.google-scholar }}" rel="external"><span class="name">Google Scholar</span></a>
-                    {% if include.github or include.linkedin or include.twitter %} | {% endif %}
+                    {% if include.github or include.linkedin or include.twitter or include.bluesky or include.orcid %} | {% endif %}
                 {% endif %}
                 {% if include.github %} <!-- GitHub page? -->
                     <a href="{{ include.github }}" rel="external"><span class="name">Github</span></a>
-                    {% if include.linkedin or include.twitter %} | {% endif %}
+                    {% if include.linkedin or include.twitter or include.bluesky or include.orcid %} | {% endif %}
                 {% endif %}
                 {% if include.linkedin %} <!-- LinkedIn? -->
                     <a href="{{ include.linkedin }}" rel="external"><span class="name">LinkedIn</span></a>
-                    {% if include.twitter %} | {% endif %}
+                    {% if include.twitter or include.bluesky or include.orcid %} | {% endif %}
                 {% endif %}
                 {% if include.twitter %} <!-- Twitter? -->
                     <a href="{{ include.twitter }}" rel="external"><span class="name">Twitter</span></a>
+                    {% if include.bluesky or include.orcid %} | {% endif %}
                 {% endif %}
                 {% if include.bluesky %} <!-- Bluesky? -->
                     <a href="{{ include.bluesky }}" rel="external"><span class="name">Bluesky</span></a>
+                    {% if include.orcid %} | {% endif %}
                 {% endif %}
-                {% if include.twitter %} <!-- ORCiD? -->
+                {% if include.orcid %} <!-- ORCiD? -->
                     <a href="{{ include.orcid }}" rel="external"><span class="name">ORCiD</span></a>
                 {% endif %}
                 {% case include.rank %}
@@ -60,27 +62,29 @@
                 {% endif %}
                 {% if include.website %} <!-- Do we have a website? -->
                     <a href="{{ include.website }}" rel="external"><span class="name">Website</span></a>
-                    {% if include.google-scholar or include.github or include.linkedin or include.twitter %} | {% endif %}
+                    {% if include.google-scholar or include.github or include.linkedin or include.twitter or include.bluesky or include.orcid %} | {% endif %}
                 {% endif %}
                 {% if include.google-scholar %} <!-- Google Scholar page? -->
                     <a href="{{ include.google-scholar }}" rel="external"><span class="name">Google Scholar</span></a>
-                    {% if include.github or include.linkedin or include.twitter %} | {% endif %}
+                    {% if include.github or include.linkedin or include.twitter or include.bluesky or include.orcid %} | {% endif %}
                 {% endif %}
                 {% if include.github %} <!-- GitHub page? -->
                     <a href="{{ include.github }}" rel="external"><span class="name">Github</span></a>
-                    {% if include.linkedin or include.twitter %} | {% endif %}
+                    {% if include.linkedin or include.twitter or include.bluesky or include.orcid %} | {% endif %}
                 {% endif %}
                 {% if include.linkedin %} <!-- LinkedIn? -->
                     <a href="{{ include.linkedin }}" rel="external"><span class="name">LinkedIn</span></a>
-                    {% if include.twitter %} | {% endif %}
+                    {% if include.twitter or include.bluesky or include.orcid %} | {% endif %}
                 {% endif %}
                 {% if include.twitter %} <!-- Twitter? -->
                     <a href="{{ include.twitter }}" rel="external"><span class="name">Twitter</span></a>
+                    {% if include.bluesky or include.orcid %} | {% endif %}
                 {% endif %}
                 {% if include.bluesky %} <!-- Bluesky? -->
                     <a href="{{ include.bluesky }}" rel="external"><span class="name">Bluesky</span></a>
+                    {% if include.orcid %} | {% endif %}
                 {% endif %}
-                {% if include.twitter %} <!-- ORCiD? -->
+                {% if include.orcid %} <!-- ORCiD? -->
                     <a href="{{ include.orcid }}" rel="external"><span class="name">ORCiD</span></a>
                 {% endif %}
                 <span class="post-date">{{ start_year }} &mdash; {{ include.end }}</span> <!-- Dates worked -->
