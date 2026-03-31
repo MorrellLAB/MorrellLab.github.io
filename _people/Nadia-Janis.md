@@ -1,8 +1,8 @@
 ---
 name: "Nadia Janis"
-rank: undergraduate
+rank: former
 start-date: 2021-01-04
-end-date: Present
+end-date: 2022-02-04
 image: nadia.jpg
 google-scholar:
 github: https://github.com/janis089
@@ -10,4 +10,4 @@ linkedin: https://www.linkedin.com/in/nadia-janis111/
 twitter:
 ---
 
-Nadia has worked as an undergraduate student in the lab, including a lot of heavy lifting in the greenhouse and computational analysis. She completed a bachelor's degree in Environmental Science at University of Minnesota in May 2021.
+Nadia worked as an undergraduate student in the lab, including a lot of heavy lifting in the greenhouse and computational analysis. She completed a bachelor's degree in Environmental Science at University of Minnesota in May 2021.

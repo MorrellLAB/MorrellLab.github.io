@@ -11,4 +11,4 @@ twitter:
 website: "http://gautlab.bio.uci.edu/Home.html"
 ---
 
-University of Minnesota, College of Pharmacy 
+Serguei is a professor in the University of Minnesota College of Pharmacy 
