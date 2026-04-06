@@ -7,7 +7,7 @@ paper_journal: "Molecular Ecology"
 preprint: "https://doi.org/10.1101/2025.04.09.647789"
 github: "https://github.com/MorrellLAB/cowpea_environmental"
 dataset: "https://doi.org/10.13020/XXPS-Q694"
-#paper_url: ""
+paper_url: "https://doi.org/10.1111/mec.70327"
 #citation_url: ""
 #cluster: 
 num_citations: "0"
