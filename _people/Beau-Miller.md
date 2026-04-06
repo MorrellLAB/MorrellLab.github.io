@@ -6,7 +6,7 @@ end-date: 2012
 image: 
 google-scholar: 
 github: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/beauhmiller/
 twitter: 
 website: 
 ---
