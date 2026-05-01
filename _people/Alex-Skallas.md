@@ -1,6 +1,6 @@
 ---
 name: "Alex Skallas"
-rank: graduate student
+rank: graduate
 start-date: 2026-09-01
 end-date: Present
 image: ""
