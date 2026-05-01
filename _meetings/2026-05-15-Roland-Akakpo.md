@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2026-05-015
+meet_date: 2026-05-15
 leader: "Roland Akakpo"
 paper_author: "Igolkina AA, Vorbrugg S, Rabanal FA et al."
 paper_year: "2025"
