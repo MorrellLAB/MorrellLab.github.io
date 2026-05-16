@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2026-05-01
-leader: "Roland Akakpo"
+leader: "Peter Morrell"
 paper_author: "Purugganan MD, Fuller DQ"
 paper_year: "2009"
 paper_title: "The nature of selection during plant domestication"
