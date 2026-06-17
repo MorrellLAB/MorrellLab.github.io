@@ -8,5 +8,5 @@ paper_title: "Efficient ancestry and mutation simulation with msprime 1.0."
 paper_journal: "Genetics 220: iyab229"
 paper_url: "https://doi.org/10.1093/genetics/iyab229"
 ---
+Also see: [https://tskit.dev/msprime/docs/stable/quickstart.html](https://tskit.dev/msprime/docs/stable/quickstart.html)
 
-Also see: https://tskit.dev/msprime/docs/stable/quickstart.html
