@@ -1,5 +1,5 @@
 ---
-name: "Mackenzie-Linane""
+name: "Mackenzie-Linane"
 rank: former
 start-date: 2019
 end-date: 2021
