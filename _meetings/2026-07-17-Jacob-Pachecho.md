@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2026-07-14
+meet_date: 2026-07-17
 leader: "Jacob Pacheco"
 paper_author: "Pope NS, Rivera-Colón AG, Kapoor A, Korfmann K, Rodrigues MF, Small ST, Teterina AA, Kern AD"
 paper_year: "2026"
