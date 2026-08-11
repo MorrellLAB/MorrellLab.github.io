@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meet_date: 2026-08-14
-leader: "Max Okagaki"
+leader: "Peter Morrell"
 paper_author: "Payseur BA"
 paper_year: "2025"
 paper_title: "Genetics of recombination rate variation within and between species"
