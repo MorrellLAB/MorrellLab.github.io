@@ -10,7 +10,7 @@ dataset: "https://www.nature.com/articles/s42003-025-08045-4#Sec20"
 github: "https://github.com/ahmccormick/Barley_EGS/tree/main?tab=readme-ov-file"
 citation_url: "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14753083726385969245&as_sdt=5"
 #cluster: ""
-num_citations: "1"
+num_citations: "14"
 ---
 
 

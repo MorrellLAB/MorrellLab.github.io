@@ -10,6 +10,6 @@ paper_url: "https://doi.org/10.1093/plphys/kiad467"
 github: "https://github.com/MorrellLAB/Locus_HvUGT13248"
 citation_url: "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17582164067359403605"
 cluster: "17582164067359403605"
-num_citations: "5"
+num_citations: "22"
 ---
 

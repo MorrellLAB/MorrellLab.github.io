@@ -10,5 +10,5 @@ dataset: "https://doi.org/10.13020/sewd-qq35"
 github: "https://github.com/MorrellLAB/Barley_Mutated"
 citation_url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GnCbOj4AAAAJ&sortby=pubdate&citation_for_view=GnCbOj4AAAAJ:WA5NYHcadZ8C"
 cluster: GnCbOj4AAAAJ:WA5NYHcadZ8C
-num_citations: "0"
+num_citations: "8"
 ---
