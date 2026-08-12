@@ -3,7 +3,7 @@ layout: default
 paper_author: "Yang H, Pakhomov SV, Morrell PL"
 date: "2026-07-25"
 paper_title: "Language modeling in genetics: A Swiss Army knife for a modern biologist."
-#paper_journal: "Genetics"
+paper_journal: "In review"
 #paper_url: ""
 #preprint: ""
 #dataset: ""
