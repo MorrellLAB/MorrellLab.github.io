@@ -5,7 +5,7 @@ start-date: 2022-11-23
 end-date: Present
 image: "jacob.jpg"
 google-scholar: ""
-github: ""
+github: "https://github.com/JacobPacheco2"
 linkedin: ""
 twitter: ""
 ---
