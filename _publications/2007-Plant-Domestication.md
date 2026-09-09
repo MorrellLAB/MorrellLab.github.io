@@ -5,7 +5,7 @@ layout: default
 paper_author: "Ross-Ibarra J, Morrell PL, Gaut BS"
 num_citations: "311"
 paper_journal: "Proceedings of the National Academy of Sciences of the United States of America 104 Suppl 1: 8641-8648"
-paper_url: "http://www.pnas.org/content/104/suppl.1/8641.abstract"
+paper_url: "https://doi.org/10.1073/pnas.0700643104"
 cluster: 4061357872113450280
 date: "2007-05-15"
 ---
