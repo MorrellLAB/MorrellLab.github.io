@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2026-10-09
+meet_date: 2026-10-23
 leader: "Jacob Pacheco"
 paper_author: "Rodriguez J, Cronn R, Tittes S, Kern AD"
 paper_year: "2026"
