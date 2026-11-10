@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2026-11-13
+meet_date: 2026-11-20
 leader: "Prakriti Adhikari"
 paper_author: "Jenike KM, Brown NL et al."
 paper_year: "2026"

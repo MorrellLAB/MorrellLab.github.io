@@ -1,6 +1,6 @@
 ---
 layout: meeting
-meet_date: 2026-11-20
+meet_date: 2026-11-27
 leader: "Roland Akakpo"
 paper_author: "Wei C, Sun S, Wang Y, Liu L, Pearson S, Wang Y, Dorjee T, Mace E, Jordan D, Yang Y, Tao Y"
 paper_year: "2026"
